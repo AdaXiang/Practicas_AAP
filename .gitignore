@@ -1,0 +1,44 @@
+# =========================
+# LaTeX - archivos compilados
+# =========================
+*.aux
+*.log
+*.out
+*.toc
+*.lof
+*.lot
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.synctex
+*.bcf
+*.run.xml
+*.bbl
+*.blg
+*.idx
+*.ilg
+*.ind
+*.nav
+*.snm
+*.vrb
+*.xdv
+
+# Archivos generados por minitoc
+*.mtc
+*.mtc0
+*.mtc1
+*.mtc2
+*.mtc3
+*.mtc4
+*.mtc5
+*.mtc6
+*.mtc7
+*.mtc8
+*.mtc9
+*.maf
+
+# Archivos temporales
+*.bak
+*.tmp
+*.swp
+*~

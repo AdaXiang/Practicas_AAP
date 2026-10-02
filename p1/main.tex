@@ -1,0 +1,68 @@
+\documentclass[twoside, openright, minitoc, hidelinks, headlogo, framedcover]{tfeEPCC}
+
+\setlength{\headheight}{15pt}
+\setlength{\marginparwidth}{2.5cm}
+
+% Codificación y fuentes
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[spanish, es-tabla]{babel}
+\usepackage{graphicx}
+\usepackage{booktabs}
+\usepackage{tabularx}
+\usepackage{enumitem}
+\usepackage{placeins}
+\usepackage{tcolorbox}
+\usepackage{listings}
+\usepackage{xcolor}
+\usepackage{multirow}
+\usepackage{fancyhdr}
+\usepackage{import}
+
+% Enlaces
+\usepackage{hyperref}
+
+% Interlineado
+\usepackage{setspace}
+\onehalfspacing
+
+% ---------------------------------
+% DATOS DEL DOCUMENTO
+% ---------------------------------
+
+\title{Título de la documentación}
+\author{Ada Xiang Ramos Grano de Oro y Manuel Solís Gómez}
+
+\begin{document}
+
+% Portada
+\maketitle
+
+\newpage
+\pagestyle{plain}
+\pagenumbering{Roman}
+\setcounter{page}{1}
+\tableofcontents
+\newpage
+
+% ---------------------------------
+% CONTENIDO
+% ---------------------------------
+\pagenumbering{arabic}
+\pagestyle{fancy}
+
+\setcounter{page}{1}
+
+\import{secciones}{01_introduccion.tex}
+
+
+\import{secciones}{02_herramientas.tex}
+
+\import{secciones}{03_planificacion.tex}
+
+\import{secciones}{04_implementacion.tex}
+
+\startappendices
+
+\makebibliography
+\end{document}
