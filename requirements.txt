@@ -1,0 +1,8 @@
+numpy
+pandas
+scikit-learn
+matplotlid
+seaborn
+imbalanced-learn
+pyarrow
+fastparquet

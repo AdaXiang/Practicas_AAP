@@ -1,0 +1,99 @@
+barrio,tipo,estado,superficie_m2,habitaciones,banos,planta,ano_construccion,ascensor,fecha_venta,precio
+Casco Antiguo,Estudio,Reformado,37.5,0,1,8,2004.0,,2024-04-23,114375.0
+San Pablo,Piso,Buen estado,62.0,1,1,8,1955.0,,2024-03-11,124128.0
+Los Remedios,Piso,Obra nueva,83.8,3,2,6,2022.0,,2024-03-25,268298.0
+Casco Antiguo,Piso,Reformado,163.8,6,4,4,1986.0,,2024-05-06,731967.0
+Este-Alcosa,Ático,Reformado,83.1,4,2,8,1969.0,,2024-03-26,181498.0
+Este-Alcosa,Chalet,Buen estado,164.6,6,3,0,1965.0,,2024-02-05,222487.0
+Nervión,Piso,Reformado,48.5,1,1,2,1981.0,,2025-02-04,183640.0
+Triana,Piso,Reformado,73.6,2,1,8,2009.0,,2025-12-08,259461.0
+Triana,Piso,Reformado,53.7,1,1,8,2012.0,,2024-05-15,182388.0
+Triana,Piso,Reformado,28.0,1,1,5,1960.0,,2024-10-13,78141.0
+Este-Alcosa,Piso,Reformado,81.0,4,3,8,1985.0,,2025-09-11,138378.0
+Este-Alcosa,Chalet,A reformar,181.3,5,3,0,1966.0,,2024-05-24,210224.0
+Bellavista,Chalet,Reformado,155.9,7,5,0,1973.0,,2025-01-31,203437.0
+Triana,Piso,Buen estado,,3,2,0,2003.0,,2024-04-13,259859.0
+Este-Alcosa,Piso,Buen estado,119.5,5,3,2,1968.0,,2024-01-25,192548.0
+Triana,Piso,A reformar,95.7,4,2,4,1960.0,,2025-08-24,209890.0
+Sur,Piso,Buen estado,99.2,4,2,0,2004.0,,2025-07-27,226802.0
+San Pablo,Piso,Buen estado,56.9,2,1,2,2001.0,,2025-01-19,125203.0
+Este-Alcosa,Chalet,Reformado,204.2,7,5,0,1996.0,,2025-05-28,410863.0
+Triana,Piso,Buen estado,116.4,3,2,1,2015.0,,2024-03-11,391129.0
+Triana,Estudio,Buen estado,56.0,0,1,8,2008.0,,2024-01-07,150020.0
+Sur,Estudio,Obra nueva,40.2,0,1,2,2020.0,,2024-04-13,86344.0
+Bellavista,Piso,A reformar,28.0,1,1,5,1981.0,,2024-09-27,30496.0
+Macarena,Piso,Buen estado,90.7,4,3,1,1979.0,,2025-01-04,168896.0
+Macarena,Chalet,Buen estado,156.6,7,5,0,2001.0,,2025-10-16,245782.0
+Los Remedios,Ático,Reformado,83.1,3,2,8,1963.0,,2025-11-15,239833.0
+Bellavista,Piso,A reformar,,4,3,4,,,2025-09-26,95325.0
+Triana,Piso,A reformar,,2,2,5,1955.0,,2024-06-27,99479.0
+Los Remedios,Ático,Buen estado,102.1,4,3,0,1974.0,,2025-02-22,370092.0
+Cerro-Amate,Piso,Buen estado,49.5,1,1,8,1989.0,,2024-03-29,66228.0
+Los Remedios,Piso,Reformado,87.0,2,1,4,1998.0,,2024-10-07,265249.0
+Cerro-Amate,Piso,Reformado,51.8,3,3,4,2009.0,,2024-10-22,81710.0
+Los Remedios,Piso,Reformado,91.1,3,3,7,1973.0,,2025-01-07,369069.0
+Macarena,Piso,Obra nueva,131.3,5,3,1,2019.0,,2024-02-24,385405.0
+Los Remedios,Piso,Buen estado,114.4,5,3,7,,,2024-10-27,286536.0
+Cerro-Amate,Piso,Buen estado,78.1,2,1,0,1972.0,,2024-04-18,82931.0
+Triana,Estudio,Buen estado,48.3,0,1,3,2011.0,,2025-03-08,122607.0
+Nervión,Chalet,Reformado,273.7,8,4,0,,,2024-10-08,844986.0
+Cerro-Amate,Piso,A reformar,140.3,6,4,2,,,2024-06-01,120905.0
+San Pablo,Estudio,Buen estado,42.6,0,1,5,2002.0,,2025-05-28,87230.0
+Este-Alcosa,Piso,Obra nueva,90.3,2,1,1,2021.0,,2024-01-06,218921.0
+Sur,Piso,Reformado,49.2,2,1,3,2017.0,,2024-08-11,86315.0
+Sur,Piso,Obra nueva,91.3,3,3,5,2022.0,,2024-06-18,180906.0
+Triana,Piso,Reformado,83.0,2,2,1,1981.0,,2024-09-17,386082.0
+Sur,Piso,Buen estado,63.8,3,2,0,1980.0,,2025-08-23,126548.0
+Sur,Piso,Reformado,117.6,5,3,6,1974.0,,2025-02-13,245234.0
+Los Remedios,Estudio,Buen estado,33.1,0,1,0,1984.0,,2024-04-22,92814.0
+Triana,Piso,A reformar,,5,2,2,1981.0,,2025-11-22,123627.0
+Sur,Piso,Buen estado,65.2,1,1,6,1989.0,,2024-08-25,118581.0
+Sur,Piso,A reformar,,2,1,3,1962.0,,2025-08-28,51858.0
+Nervión,Estudio,A reformar,52.1,0,1,5,1977.0,,2025-11-10,110862.0
+Macarena,Piso,A reformar,28.0,1,1,1,1959.0,,2025-06-29,26028.0
+Macarena,Piso,Buen estado,94.2,4,2,1,1992.0,,2025-04-23,176885.0
+Bellavista,Ático,Reformado,120.7,3,3,4,1999.0,,2025-10-11,261088.0
+Macarena,Estudio,Buen estado,34.9,0,1,0,1983.0,,2024-10-03,71143.0
+Los Remedios,Piso,Buen estado,101.2,5,2,0,1974.0,,2024-05-10,249696.0
+Sur,Chalet,A reformar,134.5,6,4,0,,,2025-05-31,166185.0
+Triana,Piso,A reformar,,5,2,1,,,2024-07-29,242757.0
+Cerro-Amate,Piso,Buen estado,110.9,3,3,8,2022.0,,2024-02-13,169078.0
+Este-Alcosa,Piso,Buen estado,134.1,4,3,4,1970.0,,2024-12-15,183761.0
+Casco Antiguo,Piso,A reformar,102.0,5,2,4,1957.0,,2025-05-19,298330.0
+Los Remedios,Estudio,Buen estado,40.0,0,1,7,2008.0,,2024-07-11,100084.0
+Este-Alcosa ,Piso,Obra nueva,108.0,4,3,4,2025.0,,2024-08-08,230588.0
+Este-Alcosa,Piso,Reformado,67.1,3,3,6,1970.0,,2024-07-03,129744.0
+Cerro-Amate,Piso,Reformado,84.1,3,3,4,1988.0,,2024-05-01,121232.0
+Cerro-Amate,Ático,Buen estado,80.6,4,3,4,2009.0,,2025-03-13,104978.0
+Macarena,Estudio,Buen estado,49.2,0,1,0,2005.0,,2024-03-31,96095.0
+Cerro-Amate,Piso,Reformado,51.8,3,3,4,2009.0,,2024-10-22,81710.0
+Este-Alcosa ,Piso,Buen estado,,3,3,1,1969.0,,2025-02-17,137658.0
+Triana,Estudio,Reformado,42.1,0,1,1,1984.0,,2025-11-01,129142.0
+Triana,Piso,Buen estado,101.0,4,2,1,1992.0,,2024-10-19,213934.0
+San Pablo,Piso,A reformar,80.6,2,1,5,1965.0,,2025-01-20,96484.0
+Bellavista,Piso,Obra nueva,60.0,2,1,8,2023.0,,2025-05-08,149459.0
+San Pablo,Estudio,Buen estado,40.3,0,1,7,1967.0,,2024-04-02,74383.0
+Bellavista,Ático,Buen estado,153.3,6,4,7,1982.0,,2024-09-01,257065.0
+Cerro-Amate,Chalet,Reformado,370.04,6,3,0,2021.0,,2024-09-07,1204725.6149666358
+Los Remedios,Ático,Buen estado,36.3,1,1,1,1973.0,,2024-09-16,100149.0
+Sur,Piso,Reformado,107.8,3,3,4,1994.0,,2025-10-05,209632.0
+Los Remedios,Chalet,Buen estado,249.6,8,5,0,1973.0,,2024-04-21,662149.0
+Bellavista,Ático,Buen estado,141.7,5,3,0,1974.0,,2025-07-29,212300.0
+Bellavista,Piso,A reformar,76.7,2,2,6,1963.0,,2025-08-02,95103.0
+Bellavista,Piso,Buen estado,97.6,2,1,0,1963.0,,2024-03-29,121913.0
+Este-Alcosa,Piso,Reformado,65.7,3,2,4,1967.0,,2025-01-26,134174.0
+Los Remedios,Piso,Buen estado,91.8,2,2,3,1992.0,,2024-08-31,262960.0
+Sur,Estudio,Buen estado,43.1,0,1,2,1981.0,,2024-10-15,60453.0
+Triana,Piso,Obra nueva,108.9,5,3,1,2022.0,,2024-06-21,438314.0
+Macarena,Estudio,Buen estado,34.9,0,1,0,1983.0,,2024-10-03,71143.0
+Bellavista,Piso,Reformado,46.8,2,1,2,1962.0,,2024-06-20,69942.0
+Casco Antiguo,Piso,Reformado,80.5,4,2,7,1982.0,,2025-09-14,228842.0
+Triana,Piso,Buen estado,96.7,3,3,3,1960.0,,2024-09-26,286834.0
+Macarena,Ático,Obra nueva,71.6,4,3,6,2022.0,,2024-07-16,202551.0
+Nervión,Piso,Obra nueva,35.6,2,1,2,2025.0,,2024-06-01,130583.0
+Este-Alcosa,Piso,Buen estado,123.6,3,2,4,2012.0,,2025-04-25,234046.0
+Bellavista,Piso,Reformado,66.3,1,1,6,1984.0,,2025-12-02,187392.0
+Cerro-Amate,Piso,Reformado,102.1,5,3,0,1960.0,,2024-02-08,227455.0
+Este-Alcosa,Ático,Reformado,78.2,3,3,6,1982.0,,2025-09-03,127904.0
+Este-Alcosa,Piso,Buen estado,83.7,3,2,6,,,2025-07-09,112866.0
+Macarena,Estudio,Obra nueva,39.1,0,1,7,2019.0,,2025-09-12,109128.0

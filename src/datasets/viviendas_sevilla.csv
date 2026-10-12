@@ -1,0 +1,1209 @@
+barrio,tipo,estado,superficie_m2,habitaciones,banos,planta,ano_construccion,ascensor,fecha_venta,precio
+Bellavista,Ático,Reformado,120.7,3,3,4,1999.0,,2025-10-11,261088.0
+Bellavista,Ático,Buen estado,153.3,6,4,7,1982.0,,2024-09-01,257065.0
+Bellavista,Ático,Buen estado,141.7,5,3,0,1974.0,,2025-07-29,212300.0
+Bellavista,Ático,Reformado,83.8,3,2,4,2004.0,Sí,2024-09-26,163180.0
+Bellavista,Ático,Obra nueva,57.5,2,1,0,2024.0,No,2025-11-08,117013.0
+Bellavista,Ático,Reformado,66.4,3,3,6,1980.0,Sí,2025-03-17,102158.0
+Bellavista,Ático,A reformar,,4,3,8,,SÍ,2024-10-17,100865.0
+Bellavista,Ático,Obra nueva,45.2,1,1,2,2021.0,No,2024-02-29,79485.0
+Bellavista,Ático,A reformar,99.1,5,2,8,,Sí,2024-03-07,76788.0
+Bellavista,Ático,A reformar,43.5,2,1,7,1987.0,Sí,2024-12-11,48343.0
+Casco Antiguo,Ático,Obra nueva,116.6,4,2,5,2022.0,Sí,2025-07-25,595084.0
+Casco Antiguo,Ático,Reformado,113.6,4,3,8,1980.0,SÍ,2025-04-10,542706.0
+Casco Antiguo,Ático,Reformado,114.8,3,3,6,2018.0,sí,2025-08-29,530192.0
+Casco Antiguo,Ático,Buen estado,120.0,5,2,8,1955.0,sí,2024-03-20,423766.0
+Casco Antiguo,Ático,Buen estado,111.1,5,3,6,2016.0,Sí,2025-09-05,416862.0
+Casco Antiguo,Ático,Buen estado,121.1,3,3,6,1958.0,sí,2025-10-03,353546.0
+Casco Antiguo,Ático,Buen estado,140.5,6,3,8,2000.0,Sí,2025-07-26,339625.0
+Casco Antiguo,Ático,Buen estado,91.5,3,2,1,1977.0,NO,2024-10-18,255020.0
+Casco Antiguo,Ático,Reformado,67.2,3,3,7,1996.0,Sí,2024-08-24,245369.0
+Casco Antiguo,Ático,Reformado,70.4,2,2,0,1986.0,No,2024-12-08,226856.0
+Cerro-Amate,Ático,Buen estado,80.6,4,3,4,2009.0,,2025-03-13,104978.0
+Cerro-Amate,Ático,A reformar,71.7,2,1,7,1959.0,Sí,2024-06-26,98862.0
+Cerro-Amate,Ático,Buen estado,54.6,2,1,4,1987.0,SÍ,2024-03-07,92837.0
+Cerro-Amate,Ático,A reformar,65.6,2,2,7,1955.0,SÍ,2025-12-29,78233.0
+Cerro-Amate,Ático,Buen estado,58.1,2,1,6,2011.0,No,2024-03-28,68133.0
+Cerro-Amate,Ático,A reformar,29.4,2,1,3,,Sí,2024-12-03,28576.0
+Este-Alcosa,Ático,Reformado,104.7,5,3,5,1991.0,sí,2024-07-06,288139.0
+Este-Alcosa,Ático,Obra nueva,95.8,3,2,2,2024.0,Sí,2025-09-15,234280.0
+Este-Alcosa,Ático,Reformado,107.0,3,3,2,1987.0,Sí,2024-08-24,228333.0
+Este-Alcosa,Ático,Reformado,83.1,4,2,8,1969.0,,2024-03-26,181498.0
+Este-Alcosa,Ático,Buen estado,114.2,4,3,7,1993.0,sí,2025-08-04,180974.0
+"Este-Alcosa ",Ático,Buen estado,129.0,6,4,6,1972.0,Sí,2024-01-31,148136.0
+Este-Alcosa,Ático,Buen estado,122.3,3,3,8,1957.0,Sí,2025-12-03,142259.0
+este-alcosa,Ático,Buen estado,83.3,2,2,0,1997.0,No,2024-11-12,130778.0
+Este-Alcosa,Ático,Reformado,78.2,3,3,6,1982.0,,2025-09-03,127904.0
+Este-Alcosa,Ático,A reformar,101.6,3,2,7,,Sí,2024-02-06,114023.0
+Este-Alcosa,Ático,A reformar,91.6,4,2,7,1987.0,sí,2025-04-08,100677.0
+Este-Alcosa,Ático,Reformado,63.0,3,3,4,1995.0,No,2024-12-06,98167.0
+Este-Alcosa,Ático,A reformar,87.2,3,2,7,1957.0,Sí,2024-09-11,93753.0
+Este-Alcosa,Ático,Buen estado,44.2,1,1,0,1989.0,No,2025-07-09,69253.0
+Los Remedios,Ático,Buen estado,,3,3,1,2010.0,No,2024-11-04,377635.0
+Los Remedios,Ático,Reformado,83.0,4,2,8,2012.0,sí,2025-10-24,370343.0
+Los Remedios,Ático,Buen estado,102.1,4,3,0,1974.0,,2025-02-22,370092.0
+Los Remedios,Ático,A reformar,147.8,5,2,8,,No,2024-08-18,355519.0
+Los Remedios,Ático,Reformado,85.6,4,3,2,2003.0,Sí,2025-03-20,265923.0
+Los Remedios,Ático,Buen estado,75.9,2,1,7,1995.0,sí,2024-09-25,246871.0
+Los Remedios,Ático,Reformado,83.1,3,2,8,1963.0,,2025-11-15,239833.0
+Los Remedios,Ático,Buen estado,62.8,3,3,7,1971.0,Sí,2025-12-04,227720.0
+Los Remedios,Ático,Buen estado,36.3,1,1,1,1973.0,,2024-09-16,100149.0
+Los Remedios,Ático,Reformado,28.0,1,1,7,1976.0,No,2025-04-05,92312.0
+Macarena,Ático,Buen estado,126.6,6,3,8,,sí,2025-03-21,392723.0
+Macarena,Ático,Buen estado,157.7,7,4,4,1977.0,sí,2025-07-21,347087.0
+Macarena,Ático,Buen estado,81.6,4,2,6,2004.0,SÍ,2024-07-13,215141.0
+Macarena,Ático,Obra nueva,71.6,4,3,6,2022.0,,2024-07-16,202551.0
+Macarena,Ático,Obra nueva,85.2,2,2,7,2023.0,Sí,2025-08-09,169036.0
+Macarena,Ático,A reformar,84.6,4,2,1,1960.0,No,2025-05-24,132915.0
+Macarena,Ático,Reformado,,3,3,6,2009.0,Sí,2025-12-26,124365.0
+Macarena,Ático,Reformado,46.6,3,2,6,1986.0,SÍ,2025-11-15,111491.0
+Macarena,Ático,A reformar,71.8,2,2,2,,Sí,2024-05-07,95081.0
+Macarena,Ático,A reformar,60.3,2,1,2,1961.0,sí,2025-12-23,79297.0
+Macarena,Ático,A reformar,56.2,2,2,1,1966.0,no,2024-01-14,67854.0
+Macarena,Ático,A reformar,42.3,3,3,2,,SÍ,2025-05-16,58832.0
+Nervión,Ático,Obra nueva,133.4,4,3,0,2020.0,Sí,2025-03-02,625404.0
+Nervión,Ático,Reformado,134.8,5,2,7,1996.0,Sí,2025-03-22,495808.0
+Nervión,Ático,Buen estado,126.9,6,3,8,1970.0,sí,2024-10-04,394066.0
+Nervión,Ático,Buen estado,92.3,4,3,7,1962.0,sí,2024-09-19,344451.0
+Nervión,Ático,Buen estado,92.1,3,3,4,1975.0,SÍ,2024-04-09,304313.0
+Nervión,Ático,Buen estado,83.5,3,2,3,2019.0,Sí,2025-05-08,277325.0
+Nervión,Ático,Buen estado,77.4,2,2,8,1989.0,Sí,2024-07-10,270138.0
+Nervión,Ático,A reformar,95.8,4,3,7,,sí,2024-09-14,241002.0
+Nervión,Ático,Reformado,72.3,4,2,1,2003.0,No,2024-02-04,233275.0
+Nervión,Ático,A reformar,108.9,4,3,0,,no,2025-03-23,224076.0
+Nervión,Ático,A reformar,64.2,3,2,5,1976.0,Sí,2025-09-22,176868.0
+Nervión,Ático,A reformar,,2,1,0,,No,2024-09-20,171405.0
+Nervión,Ático,Reformado,29.4,2,1,1,1975.0,No,2025-12-11,93015.0
+Nervión,Ático,A reformar,35.8,1,1,5,1989.0,sí,2025-07-02,88276.0
+San Pablo,Ático,Reformado,175.7,6,3,1,1963.0,No,2024-08-29,267627.0
+San Pablo,Ático,A reformar,108.0,4,3,4,1955.0,Sí,2025-09-19,171324.0
+San Pablo,Ático,Reformado,81.1,3,3,6,1965.0,sí,2024-03-21,166161.0
+San Pablo,Ático,Buen estado,85.9,3,3,0,2016.0,No,2024-01-31,152101.0
+San Pablo,Ático,A reformar,123.9,3,2,6,1969.0,Sí,2025-01-06,149937.0
+San Pablo,Ático,Buen estado,75.4,4,3,1,1999.0,No,2025-04-30,104807.0
+San Pablo,Ático,Reformado,63.0,1,1,5,1977.0,sí,2025-09-01,104122.0
+San Pablo,Ático,A reformar,,3,3,3,1959.0,Sí,2024-04-01,77709.0
+San Pablo,Ático,A reformar,,2,2,3,1963.0,Sí,2025-01-07,36670.0
+Sur,Ático,Buen estado,127.3,4,3,1,2022.0,No,2025-05-10,283873.0
+Sur,Ático,A reformar,123.5,3,2,8,1980.0,No,2025-05-30,205385.0
+Sur,Ático,Reformado,88.0,3,3,2,2011.0,Sí,2024-05-05,200158.0
+Sur,Ático,Reformado,82.0,3,3,0,1963.0,No,2024-04-14,165373.0
+Sur,Ático,Reformado,68.2,2,2,1,2021.0,No,2025-05-22,157485.0
+Sur,Ático,Buen estado,96.3,4,3,4,2013.0,SÍ,2024-01-23,150310.0
+Sur,Ático,Buen estado,100.2,4,3,8,1998.0,Sí,2024-02-28,147426.0
+Sur,Ático,Buen estado,80.9,4,3,1,1975.0,Sí,2025-07-14,145346.0
+Sur,Ático,Buen estado,9999.0,2,2,8,1973.0,Sí,2024-02-09,106274.0
+Sur,Ático,A reformar,75.9,4,2,3,,Sí,2024-03-17,102541.0
+Sur,Ático,Reformado,62.0,2,2,3,1994.0,Sí,2025-11-24,80997.0
+Sur,Ático,A reformar,60.6,2,1,5,,Sí,2024-05-30,63011.0
+Triana,Ático,Buen estado,139.7,4,2,3,1972.0,sí,2024-06-06,560245.0
+Triana,Ático,Reformado,,5,3,7,1964.0,Sí,2024-05-03,324179.0
+Triana,Ático,Buen estado,89.5,2,2,6,1978.0,NO,2025-07-31,288610.0
+Triana,Ático,Buen estado,76.1,3,3,8,2019.0,sí,2024-09-21,255780.0
+Triana,Ático,Reformado,77.0,2,1,3,2009.0,Sí,2024-02-11,229501.0
+Triana,Ático,Buen estado,53.6,1,1,2,1985.0,Sí,2024-09-25,211463.0
+Triana,Ático,A reformar,62.4,3,2,6,,Sí,2024-12-18,158189.0
+Triana,Ático,A reformar,63.3,2,2,0,1983.0,Sí,2024-08-08,133707.0
+Triana,Ático,Reformado,29.4,1,1,8,2021.0,Sí,2025-09-06,126915.0
+Bellavista,Chalet,Reformado,170.5,6,4,0,,no,2024-06-13,421027.0
+Bellavista,Chalet,Reformado,188.5,7,5,0,1988.0,sí,2024-03-24,417705.0
+Bellavista,Chalet,Reformado,249.1,8,5,0,2021.0,No,2025-05-04,404424.0
+Bellavista,Chalet,Reformado,208.8,7,4,0,2002.0,No,2025-12-19,396799.0
+Bellavista,Chalet,Buen estado,168.1,6,4,0,1982.0,no,2025-04-01,328195.0
+Bellavista,Chalet,Buen estado,187.3,7,4,0,1991.0,NO,2025-02-23,321128.0
+Bellavista,Chalet,A reformar,256.0,8,5,0,,Sí,2024-08-06,308046.0
+Bellavista,Chalet,Buen estado,214.2,8,4,0,1957.0,NO,2024-04-19,298808.0
+Bellavista,Chalet,Buen estado,183.4,7,5,0,1977.0,No,2024-10-02,237174.0
+Bellavista,Chalet,Reformado,125.8,4,2,0,1996.0,No,2025-09-04,231766.0
+Bellavista,Chalet,Buen estado,143.9,6,4,0,2005.0,No,2024-06-20,220331.0
+Bellavista,Chalet,Reformado,155.9,7,5,0,1973.0,,2025-01-31,203437.0
+Bellavista,Chalet,A reformar,134.3,5,2,0,,NO,2024-08-24,120682.0
+Casco Antiguo,Chalet,Buen estado,236.3,8,5,0,1982.0,No,2025-02-07,858113.0
+Casco Antiguo,Chalet,Obra nueva,189.4,7,4,0,2024.0,No,2024-01-27,774559.0
+Casco Antiguo,Chalet,Buen estado,178.0,7,4,0,1979.0,No,2024-11-10,701974.0
+Casco Antiguo,Chalet,Obra nueva,177.2,5,2,0,2020.0,No,2024-07-04,666745.0
+Casco Antiguo,Chalet,Buen estado,184.6,8,5,0,1987.0,NO,2025-01-15,618451.0
+Casco Antiguo,Chalet,Buen estado,211.7,8,4,0,2002.0,No,2024-07-05,580598.0
+Casco Antiguo,Chalet,A reformar,161.2,6,4,0,,no,2024-02-01,352736.0
+Casco Antiguo,Chalet,A reformar,172.9,6,3,0,1985.0,No,2024-05-03,340298.0
+Casco Antiguo,Chalet,Buen estado,116.9,4,3,0,1964.0,no,2025-06-08,326399.0
+Casco Antiguo,Chalet,Buen estado,117.0,3,3,0,1991.0,No,2024-02-24,283968.0
+Cerro-Amate,Chalet,Reformado,370.04,6,3,0,2021.0,,2024-09-07,1204725.6149666358
+Cerro-Amate,Chalet,Reformado,213.5,8,5,0,,No,2024-07-04,325906.0
+Cerro-Amate,Chalet,Reformado,147.7,4,3,0,2008.0,No,2024-09-10,325890.0
+Cerro-Amate,Chalet,Reformado,,5,2,0,1956.0,SÍ,2025-12-16,223376.0
+Cerro-Amate,Chalet,Buen estado,171.8,5,3,0,1996.0,No,2024-10-05,206035.0
+Cerro-Amate,Chalet,A reformar,220.7,8,5,0,1955.0,No,2025-06-23,174531.0
+Cerro-Amate,Chalet,A reformar,189.3,6,4,0,1986.0,No,2025-01-17,158447.0
+Este-Alcosa,Chalet,Buen estado,237.3,8,4,0,1971.0,No,2024-11-29,554478.0
+Este-Alcosa,Chalet,Obra nueva,261.4,8,5,0,2023.0,No,2024-09-27,460963.0
+Este-Alcosa,Chalet,Buen estado,241.2,8,5,0,2014.0,no,2025-05-15,423115.0
+Este-Alcosa,Chalet,Reformado,204.2,7,5,0,1996.0,,2025-05-28,410863.0
+Este-Alcosa,Chalet,Buen estado,193.8,7,5,0,1995.0,No,2025-12-09,383744.0
+Este-Alcosa,Chalet,Reformado,181.7,6,3,0,1959.0,NO,2024-04-30,281175.0
+Este-Alcosa,Chalet,Buen estado,253.0,8,4,0,1970.0,No,2024-07-07,279042.0
+Este-Alcosa,Chalet,Obra nueva,144.1,6,3,0,2019.0,No,2024-09-15,262045.0
+Este-Alcosa,Chalet,Buen estado,172.3,5,2,0,1966.0,SÍ,2024-08-31,255400.0
+Este-Alcosa,Chalet,Buen estado,,8,4,0,1964.0,No,2025-04-11,254173.0
+Este-Alcosa,Chalet,Buen estado,127.3,5,3,0,1982.0,no,2024-03-18,228462.0
+Este-Alcosa,Chalet,Buen estado,164.6,6,3,0,1965.0,,2024-02-05,222487.0
+Este-Alcosa,Chalet,A reformar,181.3,5,3,0,1966.0,,2024-05-24,210224.0
+"Este-Alcosa ",Chalet,Buen estado,116.9,4,2,0,2012.0,no,2025-03-06,203380.0
+Este-Alcosa,Chalet,A reformar,165.4,6,4,0,1970.0,no,2025-03-18,197297.0
+Este-Alcosa,Chalet,A reformar,103.1,4,3,0,1978.0,No,2025-08-27,130934.0
+Este-Alcosa,Chalet,A reformar,145.3,6,3,0,,no,2024-03-13,127030.0
+Los Remedios,Chalet,Obra nueva,179.1,6,3,0,2021.0,No,2025-05-08,676769.0
+Los Remedios,Chalet,Buen estado,249.6,8,5,0,1973.0,,2024-04-21,662149.0
+Los Remedios,Chalet,Buen estado,233.2,8,5,0,1963.0,No,2025-04-20,583990.0
+Los Remedios,Chalet,Reformado,175.6,6,3,0,1983.0,No,2025-11-07,548491.0
+Los Remedios,Chalet,Buen estado,205.6,7,5,0,1996.0,NO,2025-01-07,534984.0
+Los Remedios,Chalet,A reformar,258.1,8,4,0,1979.0,No,2025-01-08,518933.0
+Los Remedios,Chalet,Buen estado,196.0,6,4,0,1956.0,Sí,2024-10-13,368943.0
+Los Remedios,Chalet,Buen estado,108.1,3,3,0,2005.0,no,2024-04-21,312031.0
+Los Remedios,Chalet,Buen estado,128.5,4,3,0,1976.0,NO,2025-11-08,274522.0
+Los Remedios,Chalet,A reformar,90.0,4,3,0,1959.0,No,2025-04-04,132216.0
+Macarena,Chalet,Obra nueva,335.06000000000006,5,3,0,2020.0,no,2025-10-01,2211827.6312485384
+Macarena,Chalet,Reformado,290.0,8,5,0,1961.0,No,2025-02-26,499429.0
+Macarena,Chalet,Buen estado,231.8,7,5,0,1998.0,No,2025-10-28,442537.0
+Macarena,Chalet,Reformado,161.2,6,3,0,1984.0,NO,2024-06-30,406523.0
+Macarena,Chalet,Obra nueva,140.7,5,3,0,2025.0,No,2025-05-11,372869.0
+Macarena,Chalet,Reformado,131.1,6,3,0,1988.0,No,2024-02-17,366960.0
+Macarena,Chalet,Buen estado,160.5,6,4,0,1973.0,Sí,2025-11-04,360842.0
+Macarena,Chalet,Buen estado,158.3,7,4,0,1976.0,no,2025-04-14,359497.0
+Macarena,Chalet,Buen estado,212.0,8,4,0,1965.0,sí,2025-09-22,352203.0
+Macarena,Chalet,Buen estado,153.9,4,3,0,2009.0,No,2025-07-01,322498.0
+Macarena,Chalet,A reformar,139.0,6,3,0,1973.0,No,2025-10-01,317541.0
+Macarena,Chalet,Reformado,170.1,7,5,0,1955.0,No,2024-09-11,285611.0
+Macarena,Chalet,Buen estado,156.6,7,5,0,2001.0,,2025-10-16,245782.0
+Macarena,Chalet,A reformar,134.8,4,3,0,1989.0,no,2025-12-01,189582.0
+Nervión,Chalet,Obra nueva,264.3,8,5,0,2025.0,No,2024-04-14,1132718.0
+Nervión,Chalet,Obra nueva,238.1,8,4,0,2019.0,No,2024-08-16,1052792.0
+Nervión,Chalet,Buen estado,222.5,8,4,0,2012.0,No,2024-12-20,946671.0
+Nervión,Chalet,Reformado,273.7,8,4,0,,,2024-10-08,844986.0
+Nervión,Chalet,Buen estado,235.0,8,5,0,1992.0,NO,2025-07-09,785989.0
+Nervión,Chalet,Reformado,235.1,8,4,0,1971.0,No,2025-03-14,729722.0
+Nervión,Chalet,Obra nueva,224.6,8,5,0,2020.0,No,2025-10-13,711599.0
+Nervión,Chalet,Buen estado,203.2,6,3,0,2015.0,No,2025-11-06,699573.0
+Nervión,Chalet,Buen estado,208.1,7,4,0,1998.0,Sí,2024-01-21,694652.0
+Nervión,Chalet,Buen estado,,6,3,0,2005.0,sí,2025-08-06,612858.0
+Nervión,Chalet,Buen estado,189.8,7,4,0,1962.0,Sí,2024-09-10,486430.0
+Nervión,Chalet,Buen estado,107.1,4,2,0,2003.0,No,2025-11-05,485102.0
+Nervión,Chalet,Buen estado,172.5,7,4,0,1976.0,No,2024-04-04,465682.0
+Nervión,Chalet,Obra nueva,141.7,4,2,0,2024.0,No,2024-01-08,458353.0
+Nervión,Chalet,Buen estado,107.8,3,2,0,1975.0,No,2024-04-04,418126.0
+Nervión,Chalet,Buen estado,151.0,4,3,0,2000.0,No,2025-06-12,390462.0
+Nervión,Chalet,A reformar,156.8,6,3,0,1966.0,No,2024-10-12,383985.0
+Nervión,Chalet,Buen estado,107.9,4,2,0,1995.0,no,2024-08-04,381239.0
+Nervión,Chalet,Reformado,,5,2,0,1989.0,NO,2025-04-28,359490.0
+Nervión,Chalet,Buen estado,150.2,4,3,0,1977.0,no,2024-10-21,313018.0
+San Pablo,Chalet,Reformado,203.9,8,4,0,2004.0,no,2024-03-10,607962.0
+San Pablo,Chalet,Obra nueva,168.8,5,2,0,2021.0,no,2025-10-20,460990.0
+San Pablo,Chalet,Reformado,236.9,7,4,0,2009.0,No,2025-10-21,447131.0
+San Pablo,Chalet,Reformado,202.1,8,5,0,,No,2024-06-03,440033.0
+San Pablo,Chalet,Reformado,183.3,6,3,0,1981.0,No,2025-11-21,392512.0
+San Pablo,Chalet,Reformado,197.2,7,5,0,2000.0,No,2024-07-04,363528.0
+San Pablo,Chalet,Buen estado,162.4,6,3,0,2015.0,no,2025-03-15,328617.0
+San Pablo,Chalet,Obra nueva,147.0,6,3,0,2025.0,No,2025-09-16,275905.0
+San Pablo,Chalet,Reformado,119.3,3,3,0,2009.0,No,2024-08-17,259450.0
+San Pablo,Chalet,Buen estado,101.7,3,2,0,1989.0,Sí,2024-05-15,194915.0
+Sur,Chalet,Reformado,202.4,6,3,0,2006.0,no,2025-03-24,529092.0
+Sur,Chalet,Obra nueva,173.6,6,4,0,2023.0,No,2024-03-11,381442.0
+Sur,Chalet,Buen estado,148.4,4,2,0,2015.0,No,2025-07-18,332705.0
+Sur,Chalet,Buen estado,214.5,7,5,0,1985.0,NO,2024-03-07,294426.0
+Sur,Chalet,Buen estado,178.6,5,3,0,2006.0,No,2024-12-01,293156.0
+Sur,Chalet,Reformado,125.4,4,3,0,2009.0,no,2024-09-21,265373.0
+Sur,Chalet,Obra nueva,127.4,6,4,0,2021.0,No,2025-05-10,254134.0
+Sur,Chalet,Buen estado,100.8,4,2,0,2015.0,No,2024-02-04,217644.0
+Sur,Chalet,Obra nueva,94.0,2,2,0,2020.0,No,2024-04-05,216745.0
+Sur,Chalet,A reformar,134.5,6,4,0,,,2025-05-31,166185.0
+Triana,Chalet,Buen estado,518.98,7,5,0,1990.0,No,2025-11-06,2104482.534660446
+Triana,Chalet,Reformado,259.4,8,4,0,2014.0,No,2025-11-01,983171.0
+Triana,Chalet,Buen estado,198.00000000000003,3,2,0,2005.0,no,2025-03-08,818288.4172723782
+Triana,Chalet,Reformado,190.1,6,3,0,2011.0,No,2025-12-20,809075.0
+Triana,Chalet,Reformado,208.1,7,5,0,1975.0,SÍ,2025-09-20,723677.0
+Triana,Chalet,Buen estado,190.3,8,5,0,2012.0,no,2024-10-11,701696.0
+Triana,Chalet,Buen estado,274.2,8,4,0,1959.0,No,2024-07-18,655978.0
+Triana,Chalet,A reformar,219.8,7,4,0,,No,2024-03-27,625098.0
+Triana,Chalet,Reformado,197.2,8,5,0,1987.0,NO,2025-07-18,602277.0
+Triana,Chalet,Buen estado,186.5,7,4,0,2006.0,No,2025-09-24,555322.0
+Triana,Chalet,A reformar,244.8,8,5,0,1972.0,Sí,2024-01-19,538297.0
+Triana,Chalet,Reformado,156.4,7,4,0,1961.0,Sí,2024-02-03,515220.0
+Triana,Chalet,Buen estado,180.2,7,5,0,1983.0,No,2025-12-19,474684.0
+Triana,Chalet,A reformar,227.7,8,4,0,1956.0,No,2024-11-18,453163.0
+Triana,Chalet,Buen estado,246.5,8,5,0,1956.0,No,2025-01-05,449648.0
+Triana,Chalet,Buen estado,,6,3,0,1962.0,no,2024-03-23,434546.0
+Triana,Chalet,Buen estado,150.7,5,3,0,,SÍ,2025-03-06,396549.0
+Triana,Chalet,A reformar,257.0,8,4,0,1979.0,No,2024-04-26,329839.0
+Bellavista,Estudio,Buen estado,49.0,0,1,4,1990.0,sí,2025-11-07,105974.0
+Bellavista,Estudio,Reformado,42.3,0,1,3,1998.0,Sí,2025-11-12,82067.0
+Bellavista,Estudio,Buen estado,43.9,0,1,5,1984.0,No,2025-04-18,72945.0
+Bellavista,Estudio,Obra nueva,43.9,0,1,0,2025.0,NO,2025-08-26,69003.0
+Bellavista,Estudio,Reformado,38.1,0,1,0,2012.0,No,2025-12-07,66244.0
+Bellavista,Estudio,Reformado,33.9,0,1,0,1971.0,No,2024-07-23,65020.0
+Bellavista,Estudio,Reformado,37.4,0,1,4,1973.0,Sí,2025-12-24,59686.0
+Bellavista,Estudio,Reformado,33.8,0,1,6,1998.0,Sí,2024-02-03,58882.0
+Bellavista,Estudio,Reformado,34.8,0,1,4,1981.0,sí,2025-04-30,56334.0
+Bellavista,Estudio,Buen estado,46.0,0,1,6,1961.0,Sí,2025-03-22,50896.0
+Bellavista,Estudio,Buen estado,32.8,0,1,0,1968.0,NO,2025-02-25,50039.0
+Bellavista,Estudio,Reformado,22.0,0,1,5,1963.0,Sí,2024-04-07,48543.0
+Bellavista,Estudio,A reformar,33.5,0,1,5,1986.0,Sí,2024-07-15,42743.0
+Bellavista,Estudio,A reformar,30.0,0,1,1,1989.0,No,2024-10-01,24317.0
+Casco Antiguo,Estudio,Obra nueva,44.6,0,1,8,2025.0,SÍ,2025-10-29,290516.0
+Casco Antiguo,Estudio,Buen estado,38.3,0,1,1,2002.0,no,2025-06-22,197399.0
+Casco Antiguo,Estudio,Buen estado,44.8,0,1,0,2017.0,NO,2025-02-25,152271.0
+Casco Antiguo,Estudio,Obra nueva,35.2,0,1,8,2023.0,Sí,2024-04-24,139414.0
+Casco Antiguo,Estudio,A reformar,,0,1,8,1963.0,Sí,2024-09-12,129899.0
+Casco Antiguo,Estudio,Buen estado,37.8,0,1,1,1976.0,No,2025-06-28,122852.0
+Casco Antiguo,Estudio,Buen estado,40.1,0,1,4,2003.0,Sí,2025-05-17,121021.0
+Casco Antiguo,Estudio,Buen estado,43.1,0,1,3,2020.0,No,2024-05-15,118236.0
+Casco Antiguo,Estudio,Reformado,37.5,0,1,8,2004.0,,2024-04-23,114375.0
+Casco Antiguo,Estudio,Buen estado,26.8,0,1,5,1975.0,No,2025-08-18,95659.0
+Casco Antiguo,Estudio,A reformar,40.9,0,1,8,,Sí,2024-12-01,92125.0
+Casco Antiguo,Estudio,Buen estado,24.4,0,1,0,1999.0,sí,2024-08-02,90445.0
+Cerro-Amate,Estudio,Reformado,49.4,0,1,6,1995.0,Sí,2024-07-08,107100.0
+Cerro-Amate,Estudio,Buen estado,51.0,0,1,6,1978.0,sí,2024-06-17,85315.0
+Cerro-Amate,Estudio,Reformado,44.2,0,1,1,1966.0,no,2025-12-09,73424.0
+Cerro-Amate,Estudio,Reformado,37.0,0,1,0,1968.0,No,2025-02-23,66142.0
+Cerro-Amate,Estudio,Buen estado,42.0,0,1,8,1989.0,Sí,2024-07-11,64181.0
+Cerro-Amate,Estudio,Reformado,46.5,0,1,3,1978.0,Sí,2025-04-25,61706.0
+Cerro-Amate,Estudio,Reformado,40.8,0,1,3,2019.0,sí,2025-04-07,56267.0
+Cerro-Amate,Estudio,Buen estado,46.6,0,1,0,,No,2025-12-25,55376.0
+Cerro-Amate,Estudio,Buen estado,35.7,0,1,6,1960.0,Sí,2024-07-01,52155.0
+Cerro-Amate,Estudio,Reformado,33.3,0,1,0,,No,2024-06-10,48320.0
+Cerro-Amate,Estudio,Reformado,28.7,0,1,0,1970.0,No,2024-07-11,39814.0
+Cerro-Amate,Estudio,Reformado,29.3,0,1,3,1997.0,sí,2025-08-17,37869.0
+Cerro-Amate,Estudio,Buen estado,26.1,0,1,2,1985.0,Sí,2025-08-31,27960.0
+Este-Alcosa,Estudio,Reformado,44.6,0,1,3,2015.0,sí,2025-01-16,139836.0
+este-alcosa,Estudio,Obra nueva,54.2,0,1,6,2022.0,Sí,2024-09-27,116226.0
+Este-Alcosa,Estudio,Obra nueva,42.4,0,1,2,2022.0,sí,2025-12-07,107508.0
+Este-Alcosa,Estudio,Obra nueva,35.5,0,1,1,,No,2024-03-02,97744.0
+Este-Alcosa,Estudio,Obra nueva,35.1,0,1,4,2021.0,Sí,2025-01-08,86895.0
+Este-Alcosa,Estudio,Reformado,48.9,0,1,6,1993.0,Sí,2024-09-28,84628.0
+Este-Alcosa,Estudio,Buen estado,36.2,0,1,4,2014.0,sí,2025-04-04,81732.0
+Este-Alcosa,Estudio,Reformado,45.6,0,1,0,1977.0,No,2025-06-15,79979.0
+Este-Alcosa,Estudio,Buen estado,41.9,0,1,7,2019.0,Sí,2024-08-08,77548.0
+Este-Alcosa,Estudio,Buen estado,49.6,0,1,3,2023.0,sí,2024-11-08,72937.0
+Este-Alcosa,Estudio,Reformado,,0,1,0,1968.0,No,2025-12-14,68382.0
+Este-Alcosa,Estudio,Reformado,49.6,0,1,6,1959.0,No,2025-10-22,58983.0
+este-alcosa,Estudio,Buen estado,33.9,0,1,7,1979.0,Sí,2025-08-20,58188.0
+Este-Alcosa,Estudio,Buen estado,31.7,0,1,0,1977.0,Sí,2024-10-04,51557.0
+Este-Alcosa,Estudio,Buen estado,34.7,0,1,2,2004.0,Sí,2025-06-07,51361.0
+Este-Alcosa,Estudio,A reformar,28.2,0,1,3,,sí,2025-10-08,45313.0
+"Este-Alcosa ",Estudio,A reformar,39.4,0,1,8,1978.0,Sí,2025-06-21,45159.0
+Este-Alcosa,Estudio,Buen estado,40.0,0,1,1,1955.0,No,2024-08-01,44712.0
+Este-Alcosa,Estudio,A reformar,38.0,0,1,5,1967.0,sí,2024-04-18,44398.0
+Este-Alcosa,Estudio,Buen estado,34.2,0,1,0,2023.0,No,2025-02-15,42531.0
+Este-Alcosa,Estudio,Buen estado,32.7,0,1,1,1958.0,No,2024-12-06,41647.0
+Este-Alcosa,Estudio,A reformar,38.1,0,1,7,1987.0,No,2024-10-24,40961.0
+Este-Alcosa,Estudio,A reformar,36.7,0,1,6,,Sí,2025-02-07,40908.0
+Este-Alcosa,Estudio,Buen estado,22.0,0,1,4,1980.0,SÍ,2024-01-17,39051.0
+Los Remedios,Estudio,Obra nueva,54.2,0,1,5,2025.0,Sí,2024-10-27,244875.0
+Los Remedios,Estudio,Buen estado,45.7,0,1,2,2007.0,Sí,2025-10-02,234394.0
+Los Remedios,Estudio,Reformado,49.3,0,1,6,,No,2025-02-11,211052.0
+Los Remedios,Estudio,Obra nueva,51.5,0,1,2,2020.0,Sí,2025-06-10,210146.0
+Los Remedios,Estudio,Obra nueva,41.3,0,1,2,2019.0,SÍ,2024-12-23,207117.0
+Los Remedios,Estudio,Buen estado,44.0,0,1,6,2018.0,Sí,2024-03-16,169160.0
+Los Remedios,Estudio,Obra nueva,28.6,0,1,2,2020.0,Sí,2025-09-15,160018.0
+Los Remedios,Estudio,Buen estado,49.2,0,1,7,1967.0,sí,2025-10-13,151907.0
+Los Remedios,Estudio,Reformado,37.4,0,1,7,1980.0,Sí,2024-11-24,115386.0
+Los Remedios,Estudio,Buen estado,42.6,0,1,4,2017.0,NO,2024-03-18,113481.0
+Los Remedios,Estudio,Buen estado,43.2,0,1,6,1965.0,Sí,2025-02-10,105459.0
+Los Remedios,Estudio,Buen estado,34.2,0,1,0,1979.0,No,2025-12-07,104621.0
+Los Remedios,Estudio,Buen estado,40.0,0,1,7,2008.0,,2024-07-11,100084.0
+Los Remedios,Estudio,Buen estado,33.1,0,1,0,1984.0,,2024-04-22,92814.0
+Los Remedios,Estudio,A reformar,43.1,0,1,3,,Sí,2025-05-29,91546.0
+Los Remedios,Estudio,A reformar,41.3,0,1,1,1985.0,No,2025-03-21,90186.0
+Los Remedios,Estudio,Buen estado,30.5,0,1,2,1957.0,Sí,2025-05-01,88989.0
+Los Remedios,Estudio,Reformado,32.1,0,1,4,1997.0,SÍ,2025-03-25,84131.0
+Los Remedios,Estudio,Buen estado,33.2,0,1,8,1997.0,Sí,2024-11-02,83680.0
+Los Remedios,Estudio,A reformar,40.6,0,1,2,,Sí,2024-03-18,80751.0
+Los Remedios,Estudio,A reformar,41.3,0,1,2,1988.0,No,2025-03-29,79385.0
+Los Remedios,Estudio,Buen estado,27.1,0,1,7,1994.0,Sí,2025-07-26,78058.0
+Los Remedios,Estudio,Obra nueva,22.0,0,1,7,2019.0,SÍ,2025-09-20,74407.0
+Los Remedios,Estudio,A reformar,24.9,0,1,4,,SÍ,2024-10-28,67005.0
+Macarena,Estudio,Reformado,56.0,0,1,7,2013.0,Sí,2024-10-30,154157.0
+Macarena,Estudio,Reformado,,0,1,2,2011.0,No,2025-10-24,147045.0
+Macarena,Estudio,Reformado,53.2,0,1,5,2001.0,Sí,2025-12-07,143213.0
+Macarena,Estudio,Reformado,39.6,0,1,5,1979.0,Sí,2025-06-16,120946.0
+Macarena,Estudio,Obra nueva,48.1,0,1,1,2025.0,No,2024-03-22,114715.0
+Macarena,Estudio,Obra nueva,35.0,25,1,2,2020.0,Sí,2024-03-12,114212.0
+Macarena,Estudio,Buen estado,45.8,0,1,5,2008.0,sí,2025-12-11,112157.0
+Macarena,Estudio,Buen estado,45.2,0,1,7,1988.0,SÍ,2024-04-15,111389.0
+Macarena,Estudio,Obra nueva,39.1,0,1,7,2019.0,,2025-09-12,109128.0
+Macarena,Estudio,Buen estado,53.7,0,1,2,2011.0,Sí,2024-07-20,99949.0
+Macarena,Estudio,Reformado,44.5,0,1,4,1982.0,NO,2025-07-10,96769.0
+Macarena,Estudio,Buen estado,49.2,0,1,0,2005.0,,2024-03-31,96095.0
+Macarena,Estudio,Buen estado,49.1,0,1,5,2022.0,no,2024-08-04,95856.0
+Macarena,Estudio,Buen estado,43.0,0,1,2,2014.0,Sí,2025-09-18,93742.0
+Macarena,Estudio,Reformado,37.3,0,1,8,1960.0,Sí,2025-03-14,91559.0
+Macarena,Estudio,Buen estado,41.9,0,1,4,1955.0,Sí,2024-08-07,85917.0
+Macarena,Estudio,Buen estado,37.3,0,1,7,,Sí,2024-02-22,82341.0
+Macarena,Estudio,Reformado,49.5,0,1,0,1960.0,Sí,2024-06-05,81802.0
+Macarena,Estudio,Buen estado,41.3,0,1,1,1982.0,No,2024-10-08,77013.0
+Macarena,Estudio,A reformar,45.2,0,1,2,1971.0,No,2025-07-22,74598.0
+Macarena,Estudio,Buen estado,31.0,0,1,7,1969.0,sí,2025-02-19,72316.0
+Macarena,Estudio,Buen estado,34.9,0,1,0,1983.0,,2024-10-03,71143.0
+Macarena,Estudio,Buen estado,34.9,0,1,0,1983.0,,2024-10-03,71143.0
+Macarena,Estudio,A reformar,48.6,0,1,7,,Sí,2025-09-22,67404.0
+Macarena,Estudio,Buen estado,,0,1,0,2005.0,No,2025-01-30,64023.0
+Macarena,Estudio,Buen estado,,0,1,0,2005.0,No,2025-01-30,64023.0
+Macarena,Estudio,Buen estado,39.7,0,1,3,,Sí,2025-01-16,61068.0
+Macarena,Estudio,A reformar,38.7,0,1,3,,Sí,2025-03-14,56172.0
+Macarena,Estudio,A reformar,32.0,0,1,4,,sí,2024-06-04,44814.0
+Macarena,Estudio,A reformar,41.8,0,1,0,,no,2025-03-18,43815.0
+Nervión,Estudio,Reformado,54.3,0,1,4,1981.0,Sí,2025-03-22,255268.0
+Nervión,Estudio,Obra nueva,48.9,0,1,1,,No,2024-08-09,232179.0
+Nervión,Estudio,Buen estado,45.1,0,1,4,1971.0,NO,2024-04-26,182068.0
+Nervión,Estudio,Obra nueva,37.9,0,1,1,2021.0,No,2024-04-20,174552.0
+Nervión,Estudio,Buen estado,49.3,0,1,5,,No,2024-07-21,174116.0
+Nervión,Estudio,Buen estado,47.2,0,1,8,2017.0,Sí,2024-10-21,151710.0
+Nervión,Estudio,Buen estado,51.4,0,1,4,1962.0,no,2024-02-19,149092.0
+Nervión,Estudio,Buen estado,52.0,0,1,5,,Sí,2024-01-03,147030.0
+Nervión,Estudio,Reformado,53.7,0,1,1,1956.0,NO,2024-09-11,143408.0
+Nervión,Estudio,Reformado,39.1,0,1,4,1994.0,Sí,2025-11-19,142873.0
+Nervión,Estudio,Reformado,,0,1,8,2002.0,Sí,2024-11-04,130280.0
+Nervión,Estudio,Buen estado,44.2,0,1,0,2014.0,No,2025-11-25,129949.0
+Nervión,Estudio,Reformado,32.3,0,1,1,1998.0,No,2025-12-27,115890.0
+Nervión,Estudio,A reformar,52.1,0,1,5,1977.0,,2025-11-10,110862.0
+Nervión,Estudio,Buen estado,33.8,0,1,7,1995.0,No,2024-05-13,102993.0
+Nervión,Estudio,Buen estado,43.0,0,1,7,2007.0,Sí,2025-02-03,102072.0
+Nervión,Estudio,Buen estado,44.1,0,1,7,2023.0,No,2025-10-02,100363.0
+Nervión,Estudio,A reformar,45.9,0,1,4,1985.0,sí,2024-03-23,93540.0
+Nervión,Estudio,A reformar,40.1,0,1,1,,No,2024-09-30,85222.0
+Nervión,Estudio,A reformar,37.8,0,1,6,,Sí,2024-07-28,83922.0
+Nervión,Estudio,Reformado,22.0,0,1,0,1986.0,No,2025-10-07,66252.0
+Nervión,Estudio,A reformar,34.8,0,1,2,,Sí,2025-10-20,61333.0
+Nervión,Estudio,A reformar,30.6,0,1,1,,No,2025-02-21,57580.0
+Nervión,Estudio,A reformar,27.3,0,1,1,,No,2025-07-28,49225.0
+San Pablo,Estudio,Reformado,,0,1,6,1962.0,Sí,2025-05-31,125976.0
+San Pablo,Estudio,Buen estado,42.6,0,1,5,2002.0,,2025-05-28,87230.0
+San Pablo,Estudio,Buen estado,51.3,0,1,3,2006.0,Sí,2025-12-21,85328.0
+San Pablo,Estudio,Buen estado,38.7,0,1,8,2000.0,SÍ,2024-12-09,77321.0
+San Pablo,Estudio,Obra nueva,36.7,0,1,3,2024.0,sí,2024-07-16,76788.0
+San Pablo,Estudio,A reformar,46.1,0,1,0,1956.0,No,2024-06-14,76137.0
+San Pablo,Estudio,Buen estado,40.3,0,1,7,1967.0,,2024-04-02,74383.0
+San Pablo,Estudio,Buen estado,34.4,0,1,5,1991.0,Sí,2024-10-30,72583.0
+San Pablo,Estudio,Reformado,,0,1,6,1960.0,Sí,2025-02-10,70720.0
+San Pablo,Estudio,Obra nueva,32.1,0,1,1,2024.0,NO,2025-08-11,64587.0
+San Pablo,Estudio,Buen estado,34.1,0,1,6,2004.0,Sí,2025-06-21,62666.0
+San Pablo,Estudio,A reformar,41.4,0,1,5,1969.0,Sí,2024-03-16,55938.0
+San Pablo,Estudio,Buen estado,39.5,0,1,8,2001.0,no,2025-01-03,51630.0
+San Pablo,Estudio,Buen estado,36.5,0,1,1,1966.0,No,2024-04-30,49191.0
+San Pablo,Estudio,A reformar,32.1,0,1,4,1960.0,Sí,2024-02-08,43618.0
+San Pablo,Estudio,Buen estado,35.2,0,1,8,1960.0,No,2024-01-06,38443.0
+San Pablo,Estudio,Buen estado,33.5,0,1,5,1997.0,No,2024-12-10,31811.0
+Sur,Estudio,Obra nueva,34.0,0,1,5,2025.0,Sí,2024-08-29,91235.0
+Sur,Estudio,Reformado,48.0,0,1,5,2004.0,sí,2025-09-28,88172.0
+Sur,Estudio,Obra nueva,40.2,0,1,2,2020.0,,2024-04-13,86344.0
+Sur,Estudio,Reformado,41.1,0,1,8,2014.0,Sí,2024-05-26,84391.0
+Sur,Estudio,Obra nueva,31.5,0,1,8,2025.0,Sí,2025-04-25,83966.0
+Sur,Estudio,Buen estado,37.3,0,1,8,2009.0,No,2025-04-08,70570.0
+Sur,Estudio,Buen estado,37.3,0,1,8,2009.0,No,2025-04-08,70570.0
+Sur,Estudio,Reformado,36.9,0,1,8,1979.0,Sí,2024-03-28,69284.0
+Sur,Estudio,Buen estado,43.1,0,1,2,1981.0,,2024-10-15,60453.0
+Sur,Estudio,Buen estado,41.6,0,1,1,1983.0,no,2025-01-18,55874.0
+Sur,Estudio,Buen estado,50.6,0,1,8,1978.0,Sí,2025-10-26,54496.0
+Sur,Estudio,Buen estado,35.6,0,1,8,1988.0,Sí,2024-10-19,51158.0
+Triana,Estudio,Reformado,,0,1,1,1977.0,SÍ,2024-11-06,227732.0
+Triana,Estudio,Obra nueva,42.4,0,1,2,2021.0,Sí,2025-07-22,209632.0
+Triana,Estudio,Buen estado,53.2,0,1,3,2011.0,Sí,2025-08-11,202355.0
+Triana,Estudio,Obra nueva,42.2,0,1,0,2024.0,Sí,2024-04-27,201909.0
+Triana,Estudio,Buen estado,51.3,0,1,6,2002.0,Sí,2024-08-29,167548.0
+Triana,Estudio,Buen estado,48.8,0,1,1,2018.0,no,2024-11-07,158503.0
+Triana,Estudio,Buen estado,44.6,0,1,4,2018.0,No,2024-03-15,153448.0
+Triana,Estudio,Reformado,38.5,0,1,6,1994.0,Sí,2024-05-06,151055.0
+Triana,Estudio,Buen estado,56.0,0,1,8,2008.0,,2024-01-07,150020.0
+Triana,Estudio,Buen estado,38.6,0,1,7,1993.0,Sí,2024-08-16,132630.0
+Triana,Estudio,Reformado,42.1,0,1,1,1984.0,,2025-11-01,129142.0
+Triana,Estudio,Buen estado,48.3,0,1,3,2011.0,,2025-03-08,122607.0
+Triana,Estudio,Reformado,40.4,0,1,4,2009.0,Sí,2024-07-07,119480.0
+Triana,Estudio,Buen estado,40.3,0,1,8,1989.0,Sí,2025-07-18,118172.0
+Triana,Estudio,Reformado,36.0,0,1,5,1968.0,No,2024-09-12,117418.0
+Triana,Estudio,Reformado,44.8,0,1,1,2003.0,no,2024-07-19,108931.0
+Triana,Estudio,Reformado,,0,1,4,1978.0,SÍ,2025-05-21,103772.0
+Triana,Estudio,A reformar,50.4,0,1,5,,sí,2025-11-15,103383.0
+Triana,Estudio,Reformado,39.2,0,1,8,1955.0,Sí,2025-04-12,100079.0
+Triana,Estudio,A reformar,46.8,0,1,8,1967.0,Sí,2024-07-29,92694.0
+Triana,Estudio,Buen estado,43.4,0,1,3,1955.0,Sí,2024-03-27,90025.0
+Triana,Estudio,Reformado,28.7,0,1,5,2000.0,sí,2024-03-16,88115.0
+Triana,Estudio,Buen estado,,0,1,7,,Sí,2025-10-02,81445.0
+Triana,Estudio,A reformar,40.9,0,1,1,1981.0,NO,2024-03-14,77737.0
+Triana,Estudio,Buen estado,38.4,0,1,4,1971.0,No,2024-01-18,77311.0
+Triana,Estudio,Buen estado,45.2,0,1,7,1988.0,no,2024-11-11,76440.0
+Triana,Estudio,A reformar,32.5,0,1,6,1967.0,sí,2025-03-27,61356.0
+Triana,Estudio,A reformar,35.3,0,1,4,,sí,2024-05-07,58029.0
+Bellavista,Piso,Obra nueva,151.0,5,2,1,2020.0,No,2025-09-04,329980.0
+Bellavista,Piso,Obra nueva,97.4,4,2,4,2025.0,No,2024-05-09,273028.0
+Bellavista,Piso,A reformar,166.9,5,3,5,,sí,2024-10-01,236397.0
+Bellavista,Piso,Reformado,106.4,3,2,3,,Sí,2024-06-01,234077.0
+Bellavista,Piso,Buen estado,158.4,5,2,8,1957.0,sí,2025-01-16,231946.0
+Bellavista,Piso,Obra nueva,125.1,4,2,5,2025.0,Sí,2025-09-28,224701.0
+Bellavista,Piso,Buen estado,183.1,7,5,4,1970.0,no,2025-07-07,201117.0
+Bellavista,Piso,Reformado,93.9,3,2,3,2000.0,Sí,2024-02-21,199427.0
+Bellavista,Piso,Buen estado,98.5,5,3,7,1956.0,sí,2025-06-11,189326.0
+Bellavista,Piso,Buen estado,109.5,4,3,5,1987.0,sí,2024-07-28,188971.0
+Bellavista,Piso,Reformado,66.3,1,1,6,1984.0,,2025-12-02,187392.0
+Bellavista,Piso,Reformado,102.7,5,2,2,2006.0,Sí,2025-11-27,185737.0
+Bellavista,Piso,Reformado,102.7,3,2,8,1959.0,Sí,2024-03-27,183121.0
+Bellavista,Piso,Reformado,,4,2,4,1990.0,sí,2024-05-31,183042.0
+Bellavista,Piso,Reformado,101.6,5,2,6,1964.0,sí,2024-06-11,182113.0
+Bellavista,Piso,Buen estado,98.8,5,2,5,1978.0,sí,2024-11-25,180568.0
+Bellavista,Piso,Reformado,105.0,4,3,6,1979.0,Sí,2024-11-07,177864.0
+Bellavista,Piso,Buen estado,106.5,5,3,3,1997.0,Sí,2025-07-14,166954.0
+Bellavista,Piso,Buen estado,93.6,2,2,8,1956.0,SÍ,2025-05-05,162910.0
+Bellavista,Piso,Reformado,65.5,1,1,1,2006.0,NO,2024-04-27,160661.0
+Bellavista,Piso,Buen estado,79.9,2,1,4,1998.0,Sí,2025-05-11,151273.0
+Bellavista,Piso,Obra nueva,60.0,2,1,8,2023.0,,2025-05-08,149459.0
+Bellavista,Piso,Reformado,83.5,3,3,0,1957.0,No,2024-07-17,148872.0
+Bellavista,Piso,Buen estado,70.7,2,1,2,1968.0,Sí,2025-01-15,147291.0
+Bellavista,Piso,Reformado,79.0,3,2,2,1997.0,Sí,2025-04-12,131501.0
+Bellavista,Piso,Reformado,63.3,2,1,6,1973.0,Sí,2025-06-12,131137.0
+Bellavista,Piso,Obra nueva,56.8,3,2,2,2022.0,Sí,2024-03-18,126671.0
+Bellavista,Piso,A reformar,97.3,2,2,6,1955.0,Sí,2024-05-07,126091.0
+Bellavista,Piso,Reformado,48.6,2,1,6,2022.0,Sí,2024-02-07,124478.0
+Bellavista,Piso,Reformado,77.0,3,3,5,1980.0,No,2025-04-23,123079.0
+Bellavista,Piso,Buen estado,106.1,5,3,0,1957.0,No,2025-07-24,121994.0
+Bellavista,Piso,Buen estado,97.6,2,1,0,1963.0,,2024-03-29,121913.0
+Bellavista,Piso,A reformar,72.8,3,2,4,,Sí,2024-05-23,120233.0
+Bellavista,Piso,Buen estado,80.9,3,3,0,1987.0,No,2025-04-10,114209.0
+Bellavista,Piso,A reformar,71.6,4,3,2,,sí,2025-06-26,103071.0
+Bellavista,Piso,Buen estado,81.6,3,2,2,1956.0,Sí,2025-04-23,100998.0
+Bellavista,Piso,Reformado,65.0,1,1,2,1980.0,Sí,2025-06-09,99635.0
+Bellavista,Piso,A reformar,,4,3,4,,,2025-09-26,95325.0
+Bellavista,Piso,Reformado,61.0,2,2,6,1996.0,sí,2025-05-16,95151.0
+Bellavista,Piso,A reformar,76.7,2,2,6,1963.0,,2025-08-02,95103.0
+Bellavista,Piso,A reformar,104.0,3,2,4,1974.0,sí,2024-07-22,91944.0
+Bellavista,Piso,A reformar,70.8,4,3,1,1961.0,No,2024-01-09,91216.0
+Bellavista,Piso,Buen estado,87.2,3,2,5,2007.0,Sí,2025-12-02,90528.0
+Bellavista,Piso,Buen estado,88.4,4,3,3,2019.0,NO,2024-08-23,89570.0
+Bellavista,Piso,Buen estado,56.7,2,2,2,1996.0,Sí,2024-04-01,85172.0
+Bellavista,Piso,Reformado,54.4,1,1,4,1999.0,Sí,2024-11-06,70900.0
+Bellavista,Piso,Reformado,46.8,2,1,2,1962.0,,2024-06-20,69942.0
+Bellavista,Piso,A reformar,89.1,4,3,3,1963.0,Sí,2025-12-28,67261.0
+Bellavista,Piso,Buen estado,29.8,1,1,8,2017.0,SÍ,2024-10-15,57496.0
+Bellavista,Piso,A reformar,38.7,1,1,3,,Sí,2024-08-04,45847.0
+Bellavista,Piso,A reformar,37.8,2,2,7,1962.0,sí,2024-04-18,38383.0
+Bellavista,Piso,A reformar,28.0,1,1,5,1981.0,,2024-09-27,30496.0
+Bellavista,Piso,A reformar,31.8,2,1,5,1977.0,SÍ,2024-12-12,27744.0
+Casco Antiguo,Piso,Reformado,163.8,6,4,4,1986.0,,2024-05-06,731967.0
+Casco Antiguo,Piso,Reformado,133.7,5,2,8,2002.0,sí,2025-10-31,655230.0
+Casco Antiguo,Piso,Buen estado,149.3,4,3,8,2020.0,Sí,2025-04-06,590113.0
+Casco Antiguo,Piso,Reformado,135.8,5,2,1,1975.0,no,2024-08-18,569922.0
+Casco Antiguo,Piso,Buen estado,137.8,4,2,7,2014.0,Sí,2024-07-06,535868.0
+Casco Antiguo,Piso,Buen estado,129.1,4,2,5,2010.0,No,2025-08-03,494039.0
+Casco Antiguo,Piso,Buen estado,124.3,3,2,6,1980.0,SÍ,2024-08-04,478420.0
+Casco Antiguo,Piso,Buen estado,131.4,6,3,0,2018.0,NO,2024-01-31,466474.0
+Casco Antiguo,Piso,Buen estado,94.3,4,3,6,2009.0,Sí,2025-02-07,447507.0
+Casco Antiguo,Piso,Obra nueva,97.7,3,2,2,2022.0,sí,2024-02-09,436689.0
+Casco Antiguo,Piso,Buen estado,101.2,5,2,7,2017.0,sí,2024-09-02,432005.0
+Casco Antiguo,Piso,Buen estado,101.8,5,3,7,2013.0,Sí,2025-04-24,422027.0
+Casco Antiguo,Piso,Reformado,104.4,4,3,4,1994.0,Sí,2024-08-06,414512.0
+Casco Antiguo,Piso,Reformado,85.3,3,3,8,1994.0,No,2025-01-06,409317.0
+Casco Antiguo,Piso,Buen estado,95.3,3,2,0,1999.0,No,2025-06-03,389418.0
+Casco Antiguo,Piso,Reformado,,4,3,5,1969.0,sí,2024-04-03,384378.0
+Casco Antiguo,Piso,Reformado,72.6,4,3,8,2002.0,Sí,2025-11-24,377345.0
+Casco Antiguo,Piso,Buen estado,102.6,5,3,1,2010.0,No,2024-02-11,371870.0
+Casco Antiguo,Piso,A reformar,142.2,5,3,4,1960.0,No,2025-07-27,365542.0
+Casco Antiguo,Piso,Buen estado,,2,2,6,1975.0,SÍ,2025-10-14,352812.0
+Casco Antiguo,Piso,Obra nueva,72.1,4,3,3,2022.0,No,2024-08-16,346730.0
+Casco Antiguo,Piso,Obra nueva,68.7,1,1,6,2019.0,NO,2024-05-18,343155.0
+Casco Antiguo,Piso,Buen estado,93.2,4,2,2,1963.0,Sí,2024-01-27,341171.0
+Casco Antiguo,Piso,A reformar,139.0,5,3,6,1982.0,sí,2024-11-01,332159.0
+Casco Antiguo,Piso,Obra nueva,67.5,3,2,0,2023.0,no,2025-04-04,327563.0
+Casco Antiguo,Piso,A reformar,127.9,4,3,2,1981.0,Sí,2024-07-09,326609.0
+Casco Antiguo,Piso,Buen estado,97.3,4,2,8,2023.0,Sí,2025-12-03,324942.0
+Casco Antiguo,Piso,Reformado,56.6,2,2,5,1997.0,sí,2024-04-15,315435.0
+Casco Antiguo,Piso,Obra nueva,59.2,3,3,5,2020.0,Sí,2024-03-18,313659.0
+Casco Antiguo,Piso,Reformado,71.0,3,3,7,2012.0,sí,2025-01-17,312539.0
+Casco Antiguo,Piso,Buen estado,94.4,4,2,2,1990.0,No,2025-06-18,311257.0
+Casco Antiguo,Piso,Obra nueva,74.7,2,1,6,2022.0,sí,2024-04-05,310792.0
+Casco Antiguo,Piso,A reformar,125.4,5,3,7,1968.0,Sí,2024-11-25,309798.0
+Casco Antiguo,Piso,Reformado,107.4,4,2,5,1975.0,Sí,2025-01-04,306419.0
+Casco Antiguo,Piso,A reformar,106.8,3,2,3,,SÍ,2024-05-03,301093.0
+Casco Antiguo,Piso,A reformar,102.0,5,2,4,1957.0,,2025-05-19,298330.0
+Casco Antiguo,Piso,Buen estado,75.0,3,3,7,2001.0,No,2025-03-28,296965.0
+Casco Antiguo,Piso,Obra nueva,82.3,2,1,2,2020.0,Sí,2024-07-24,292247.0
+Casco Antiguo,Piso,Buen estado,72.0,4,3,6,1962.0,Sí,2024-03-23,291014.0
+Casco Antiguo,Piso,Reformado,84.1,4,2,2,1989.0,Sí,2024-03-11,285901.0
+Casco Antiguo,Piso,Reformado,84.1,4,2,2,1989.0,Sí,2024-03-11,285901.0
+Casco Antiguo,Piso,Buen estado,97.1,2,2,7,2016.0,no,2024-10-21,284472.0
+Casco Antiguo,Piso,Buen estado,64.0,3,3,0,1959.0,No,2024-06-30,280964.0
+Casco Antiguo,Piso,A reformar,126.4,6,3,8,1978.0,SÍ,2024-04-18,279432.0
+Casco Antiguo,Piso,A reformar,121.8,3,3,4,1963.0,no,2024-07-15,276415.0
+Casco Antiguo,Piso,A reformar,96.8,4,2,7,1970.0,Sí,2025-02-24,271659.0
+Casco Antiguo,Piso,Buen estado,99.3,5,3,5,2008.0,SÍ,2024-06-16,265385.0
+Casco Antiguo,Piso,Buen estado,79.1,2,1,8,2009.0,sí,2024-05-25,264502.0
+Casco Antiguo,Piso,A reformar,108.3,3,2,3,,No,2024-03-14,264294.0
+Casco Antiguo,Piso,Buen estado,95.8,3,2,5,1985.0,Sí,2025-11-19,261504.0
+Casco Antiguo,Piso,Buen estado,63.0,2,2,6,1999.0,Sí,2025-01-01,257787.0
+Casco Antiguo,Piso,Reformado,85.9,4,3,0,2004.0,No,2024-01-13,256439.0
+Casco Antiguo,Piso,Reformado,59.0,1,1,3,1976.0,Sí,2024-05-14,255269.0
+Casco Antiguo,Piso,Reformado,62.3,2,2,6,2011.0,Sí,2025-01-14,251256.0
+Casco Antiguo,Piso,Buen estado,64.3,3,2,6,1960.0,sí,2025-11-09,241947.0
+Casco Antiguo,Piso,Buen estado,62.2,1,1,0,1977.0,No,2025-07-02,238141.0
+Casco Antiguo,Piso,Buen estado,87.2,4,3,2,1987.0,Sí,2024-10-12,230890.0
+Casco Antiguo,Piso,Buen estado,57.3,2,1,6,1964.0,Sí,2024-11-13,230392.0
+Casco Antiguo,Piso,Buen estado,82.9,3,3,3,2011.0,no,2024-04-03,229867.0
+Casco Antiguo,Piso,Reformado,80.5,4,2,7,1982.0,,2025-09-14,228842.0
+Casco Antiguo,Piso,Buen estado,54.9,1,1,6,1981.0,SÍ,2025-07-19,224146.0
+Casco Antiguo,Piso,Buen estado,79.9,4,2,4,1966.0,no,2024-08-30,222694.0
+Casco Antiguo,Piso,Buen estado,69.0,1,1,5,1975.0,Sí,2024-01-20,219508.0
+Casco Antiguo,Piso,Buen estado,74.2,2,1,0,1979.0,SÍ,2025-03-22,219226.0
+Casco Antiguo,Piso,A reformar,80.2,3,2,5,,Sí,2024-09-30,210429.0
+Casco Antiguo,Piso,Buen estado,60.2,1,1,7,1993.0,SÍ,2024-08-04,210048.0
+Casco Antiguo,Piso,Reformado,53.5,2,1,8,1974.0,Sí,2024-05-18,206723.0
+Casco Antiguo,Piso,A reformar,104.3,5,2,8,1969.0,sí,2024-06-21,204860.0
+Casco Antiguo,Piso,A reformar,82.9,3,2,7,,No,2024-11-04,195989.0
+Casco Antiguo,Piso,A reformar,62.6,1,1,8,1965.0,sí,2025-07-27,190969.0
+Casco Antiguo,Piso,Buen estado,59.4,2,1,6,1978.0,sí,2025-01-15,190249.0
+Casco Antiguo,Piso,Buen estado,48.3,2,1,1,1986.0,No,2024-08-19,181463.0
+Casco Antiguo,Piso,A reformar,75.1,3,2,2,,Sí,2024-05-24,181360.0
+Casco Antiguo,Piso,Obra nueva,44.3,1,1,0,2021.0,No,2025-12-21,181223.0
+Casco Antiguo,Piso,Buen estado,73.8,4,2,5,1981.0,Sí,2025-10-19,166109.0
+Casco Antiguo,Piso,Buen estado,47.4,3,2,3,1973.0,Sí,2024-11-30,163167.0
+Casco Antiguo,Piso,Buen estado,45.4,3,2,8,1955.0,Sí,2025-08-24,158461.0
+Casco Antiguo,Piso,Reformado,28.0,1,1,7,2001.0,sí,2025-11-16,152503.0
+Casco Antiguo,Piso,Buen estado,60.5,3,2,6,1956.0,No,2024-12-14,149442.0
+Casco Antiguo,Piso,Reformado,50.8,3,3,2,2017.0,Sí,2025-09-26,144687.0
+Casco Antiguo,Piso,Buen estado,28.0,1,1,8,1999.0,Sí,2024-01-05,124174.0
+Casco Antiguo,Piso,Buen estado,78.0,2,2,1,1988.0,no,2024-12-27,121766.0
+Casco Antiguo,Piso,Reformado,32.1,2,1,4,1972.0,Sí,2025-04-11,114411.0
+Casco Antiguo,Piso,A reformar,,3,2,1,1970.0,No,2025-07-30,113605.0
+Casco Antiguo,Piso,Buen estado,37.4,1,1,0,2021.0,No,2025-03-08,93340.0
+Casco Antiguo,Piso,A reformar,48.6,2,1,5,,SÍ,2024-11-09,92361.0
+Casco Antiguo,Piso,Reformado,28.0,1,1,3,1993.0,sí,2025-03-02,88530.0
+Casco Antiguo,Piso,A reformar,29.9,1,1,8,,Sí,2025-11-11,53504.0
+Cerro-Amate,Piso,Obra nueva,111.0,3,3,6,2019.0,SÍ,2024-07-31,273163.0
+Cerro-Amate,Piso,Reformado,110.6,5,2,7,2020.0,sí,2024-02-10,234458.0
+Cerro-Amate,Piso,Reformado,102.1,5,3,0,1960.0,,2024-02-08,227455.0
+Cerro-Amate,Piso,Reformado,140.2,5,2,6,1986.0,Sí,2024-09-13,214985.0
+Cerro-Amate,Piso,Reformado,119.7,3,2,0,2020.0,No,2024-06-03,208385.0
+Cerro-Amate,Piso,Reformado,116.5,4,2,1,2014.0,NO,2024-08-19,196006.0
+Cerro-Amate,Piso,Buen estado,93.9,2,1,4,2014.0,Sí,2025-10-25,193382.0
+Cerro-Amate,Piso,Reformado,109.0,5,3,6,2007.0,Sí,2024-09-06,192895.0
+Cerro-Amate,Piso,Buen estado,155.7,7,4,0,2021.0,No,2024-08-11,192789.0
+Cerro-Amate,Piso,Obra nueva,93.0,3,3,4,2024.0,SÍ,2025-08-01,185784.0
+Cerro-Amate,Piso,Reformado,107.3,3,2,8,1993.0,Sí,2025-12-01,185567.0
+Cerro-Amate,Piso,Buen estado,114.1,5,2,0,2014.0,No,2025-03-23,184101.0
+Cerro-Amate,Piso,Buen estado,110.9,3,3,8,2022.0,,2024-02-13,169078.0
+Cerro-Amate,Piso,Reformado,98.3,5,2,5,1960.0,No,2024-02-17,167483.0
+Cerro-Amate,Piso,Buen estado,148.6,6,4,8,2005.0,Sí,2024-07-09,166451.0
+Cerro-Amate,Piso,Reformado,63.2,3,2,6,1972.0,Sí,2025-11-07,166317.0
+Cerro-Amate,Piso,Reformado,92.0,2,2,1,2012.0,No,2024-01-18,150456.0
+Cerro-Amate,Piso,Reformado,87.7,4,2,8,2009.0,Sí,2024-07-24,141319.0
+Cerro-Amate,Piso,Buen estado,93.5,3,3,1,1963.0,No,2025-01-25,134280.0
+Cerro-Amate,Piso,Buen estado,83.4,4,2,2,1955.0,Sí,2025-01-18,130477.0
+Cerro-Amate,Piso,Buen estado,104.2,5,2,2,1967.0,Sí,2024-05-15,130165.0
+Cerro-Amate,Piso,Reformado,84.1,3,3,4,1988.0,,2024-05-01,121232.0
+Cerro-Amate,Piso,A reformar,140.3,6,4,2,,,2024-06-01,120905.0
+Cerro-Amate,Piso,Buen estado,96.9,4,2,0,1967.0,No,2025-12-28,118276.0
+Cerro-Amate,Piso,Buen estado,93.1,2,1,7,2011.0,sí,2025-10-18,117694.0
+Cerro-Amate,Piso,Reformado,85.3,4,3,2,1960.0,Sí,2025-05-09,114316.0
+Cerro-Amate,Piso,Buen estado,100.5,4,3,3,1995.0,sí,2025-03-06,113297.0
+Cerro-Amate,Piso,Obra nueva,60.7,1,1,8,2019.0,SÍ,2025-10-15,112845.0
+Cerro-Amate,Piso,A reformar,127.9,4,3,0,1977.0,No,2024-08-19,108332.0
+Cerro-Amate,Piso,Obra nueva,70.8,2,2,1,2024.0,No,2024-12-22,107384.0
+Cerro-Amate,Piso,A reformar,,4,2,2,,Sí,2025-11-01,100919.0
+Cerro-Amate,Piso,A reformar,138.7,4,2,2,1962.0,Sí,2024-10-14,100265.0
+Cerro-Amate,Piso,Reformado,77.0,3,2,7,1989.0,sí,2025-09-10,99725.0
+Cerro-Amate,Piso,Buen estado,86.2,4,3,6,1966.0,Sí,2024-11-13,98961.0
+Cerro-Amate,Piso,A reformar,83.2,2,2,1,1982.0,no,2024-05-29,96689.0
+Cerro-Amate,Piso,Buen estado,57.8,1,1,6,1986.0,Sí,2025-09-03,92142.0
+Cerro-Amate,Piso,Reformado,55.7,3,2,6,1967.0,Sí,2025-03-27,91042.0
+Cerro-Amate,Piso,Buen estado,78.1,2,1,0,1972.0,,2024-04-18,82931.0
+Cerro-Amate,Piso,Reformado,51.8,3,3,4,2009.0,,2024-10-22,81710.0
+Cerro-Amate,Piso,Reformado,51.8,3,3,4,2009.0,,2024-10-22,81710.0
+Cerro-Amate,Piso,Obra nueva,54.0,2,2,4,2024.0,no,2024-12-25,81574.0
+Cerro-Amate,Piso,A reformar,94.7,4,2,2,1973.0,Sí,2024-08-06,75772.0
+Cerro-Amate,Piso,A reformar,,4,2,5,1979.0,No,2024-03-10,72058.0
+Cerro-Amate,Piso,Reformado,56.7,3,2,4,1993.0,sí,2024-05-17,71178.0
+Cerro-Amate,Piso,Buen estado,49.5,1,1,8,1989.0,,2024-03-29,66228.0
+Cerro-Amate,Piso,Buen estado,76.5,2,2,6,1967.0,Sí,2024-08-15,65048.0
+Cerro-Amate,Piso,Buen estado,59.9,3,3,6,1957.0,SÍ,2025-01-05,64069.0
+Cerro-Amate,Piso,Buen estado,40.2,2,2,2,1975.0,Sí,2025-03-29,63361.0
+Cerro-Amate,Piso,Reformado,36.1,2,1,4,2015.0,Sí,2025-07-24,61118.0
+Cerro-Amate,Piso,Buen estado,44.7,3,2,3,1973.0,Sí,2025-11-19,59974.0
+Cerro-Amate,Piso,Buen estado,41.1,1,1,4,1997.0,Sí,2025-12-16,59402.0
+Cerro-Amate,Piso,A reformar,71.7,4,2,1,1974.0,No,2025-12-21,59033.0
+Cerro-Amate,Piso,Buen estado,54.7,1,1,6,1968.0,no,2025-07-23,57348.0
+Cerro-Amate,Piso,Obra nueva,32.2,2,2,2,2025.0,Sí,2025-03-01,51266.0
+Cerro-Amate,Piso,Buen estado,44.0,3,3,5,1979.0,Sí,2024-03-18,47279.0
+Cerro-Amate,Piso,Buen estado,28.8,2,2,6,2018.0,No,2024-07-12,39468.0
+Este-Alcosa,Piso,Obra nueva,159.8,6,3,0,2023.0,No,2024-08-20,315955.0
+Este-Alcosa,Piso,Buen estado,123.1,3,2,6,,sí,2025-11-21,282084.0
+Este-Alcosa,Piso,Buen estado,,6,3,2,2022.0,Sí,2024-11-30,269720.0
+Este-Alcosa,Piso,Reformado,122.1,3,2,3,2001.0,No,2025-04-17,262290.0
+Este-Alcosa,Piso,Buen estado,119.9,5,2,2,1968.0,Sí,2024-12-26,261344.0
+Este-Alcosa,Piso,Obra nueva,101.9,3,3,5,2023.0,Sí,2024-02-21,256462.0
+Este-Alcosa,Piso,Reformado,134.3,5,3,0,2023.0,NO,2025-10-26,253752.0
+Este-Alcosa,Piso,Reformado,102.8,3,3,8,2009.0,Sí,2024-02-14,250955.0
+Este-Alcosa,Piso,Buen estado,138.6,6,3,1,2021.0,SÍ,2024-08-19,240133.0
+Este-Alcosa,Piso,Obra nueva,90.1,3,2,3,2022.0,Sí,2025-05-24,239292.0
+Este-Alcosa,Piso,Buen estado,123.6,3,2,4,2012.0,,2025-04-25,234046.0
+Este-Alcosa,Piso,Buen estado,112.3,3,2,3,1999.0,SÍ,2024-10-12,233335.0
+Este-Alcosa,Piso,Reformado,133.2,4,2,1,1990.0,No,2025-02-17,230600.0
+"Este-Alcosa ",Piso,Obra nueva,108.0,4,3,4,2025.0,,2024-08-08,230588.0
+Este-Alcosa,Piso,Obra nueva,90.4,2,2,8,2025.0,Sí,2024-07-14,221592.0
+Este-Alcosa,Piso,Buen estado,,3,3,2,1962.0,Sí,2025-04-07,220710.0
+Este-Alcosa,Piso,Obra nueva,90.3,2,1,1,2021.0,,2024-01-06,218921.0
+Este-Alcosa,Piso,Buen estado,138.8,6,4,0,1957.0,No,2024-09-14,213932.0
+Este-Alcosa,Piso,Reformado,95.9,2,2,3,1988.0,No,2025-09-09,212137.0
+Este-Alcosa,Piso,Reformado,,5,2,0,2020.0,no,2025-01-08,207682.0
+Este-Alcosa,Piso,Buen estado,102.4,4,3,0,1955.0,No,2024-01-06,198055.0
+Este-Alcosa,Piso,Buen estado,124.6,3,2,2,2001.0,Sí,2025-10-16,197917.0
+Este-Alcosa,Piso,Reformado,72.0,4,2,6,1981.0,sí,2025-02-09,197527.0
+Este-Alcosa,Piso,Reformado,117.6,3,2,4,1983.0,NO,2024-03-18,194217.0
+Este-Alcosa,Piso,Buen estado,119.5,5,3,2,1968.0,,2024-01-25,192548.0
+Este-Alcosa,Piso,Buen estado,108.1,5,3,6,1970.0,Sí,2024-03-13,189010.0
+Este-Alcosa,Piso,Buen estado,125.2,5,3,0,1968.0,No,2024-09-05,188806.0
+Este-Alcosa,Piso,Buen estado,134.1,4,3,4,1970.0,,2024-12-15,183761.0
+Este-Alcosa,Piso,Buen estado,98.4,4,3,7,2016.0,Sí,2024-07-20,183450.0
+Este-Alcosa,Piso,Buen estado,94.7,3,3,4,1970.0,Sí,2024-09-12,181123.0
+Este-Alcosa,Piso,Buen estado,110.8,5,3,6,,Sí,2024-10-27,177381.0
+Este-Alcosa,Piso,Buen estado,95.8,2,1,4,1995.0,SÍ,2025-12-17,172411.0
+Este-Alcosa,Piso,Buen estado,107.7,3,3,1,1999.0,No,2025-06-22,170906.0
+Este-Alcosa,Piso,Reformado,99.7,3,3,8,1987.0,No,2024-02-25,169714.0
+Este-Alcosa,Piso,Reformado,90.5,4,2,5,2012.0,Sí,2024-08-16,159026.0
+Este-Alcosa,Piso,Reformado,82.2,3,3,8,1958.0,sí,2024-08-29,157999.0
+Este-Alcosa,Piso,Obra nueva,83.4,2,1,2,2023.0,Sí,2024-06-08,156435.0
+"Este-Alcosa ",Piso,Buen estado,111.0,4,2,8,1976.0,sí,2024-07-23,155152.0
+Este-Alcosa,Piso,Buen estado,,4,3,5,2010.0,sí,2025-06-18,153797.0
+Este-Alcosa,Piso,Buen estado,106.8,5,3,6,1971.0,sí,2025-09-28,153480.0
+Este-Alcosa,Piso,Buen estado,70.7,3,3,7,1977.0,sí,2025-08-26,151547.0
+Este-Alcosa,Piso,Reformado,,3,3,6,1975.0,Sí,2025-02-03,148394.0
+Este-Alcosa,Piso,Reformado,86.3,2,1,3,2017.0,No,2025-08-12,146828.0
+"Este-Alcosa ",Piso,A reformar,144.2,6,3,2,,Sí,2025-05-09,145180.0
+Este-Alcosa,Piso,Obra nueva,44.7,1,1,1,2021.0,no,2025-07-30,143562.0
+Este-Alcosa,Piso,Obra nueva,78.2,2,1,4,2023.0,Sí,2024-11-23,143533.0
+Este-Alcosa,Piso,A reformar,84.4,2,2,6,1969.0,Sí,2024-08-19,141866.0
+Este-Alcosa,Piso,Reformado,65.5,1,1,6,2020.0,sí,2024-04-20,140508.0
+Este-Alcosa,Piso,Buen estado,96.3,2,2,1,1978.0,No,2024-06-21,140476.0
+este-alcosa,Piso,Reformado,54.8,1,1,1,1981.0,no,2025-04-03,139984.0
+Este-Alcosa,Piso,Reformado,81.0,4,3,8,1985.0,,2025-09-11,138378.0
+Este-Alcosa,Piso,Reformado,65.9,1,1,7,2005.0,Sí,2025-03-19,137910.0
+"Este-Alcosa ",Piso,Buen estado,,3,3,1,1969.0,,2025-02-17,137658.0
+Este-Alcosa,Piso,Obra nueva,61.3,1,1,7,2025.0,Sí,2024-01-18,137184.0
+Este-Alcosa,Piso,Buen estado,68.0,3,2,7,1968.0,sí,2025-06-06,137077.0
+este-alcosa,Piso,Buen estado,87.1,4,3,4,1968.0,No,2024-04-24,135929.0
+Este-Alcosa,Piso,Reformado,65.7,3,2,4,1967.0,,2025-01-26,134174.0
+Este-Alcosa,Piso,Reformado,67.1,3,3,6,1970.0,,2024-07-03,129744.0
+Este-Alcosa,Piso,Buen estado,85.8,4,2,0,1961.0,No,2024-08-27,126717.0
+Este-Alcosa,Piso,Buen estado,93.8,2,1,7,1979.0,Sí,2024-05-22,125997.0
+Este-Alcosa,Piso,A reformar,100.6,4,3,7,1968.0,Sí,2024-05-26,124084.0
+Este-Alcosa,Piso,Buen estado,94.0,2,2,4,1955.0,No,2025-03-09,123926.0
+"Este-Alcosa ",Piso,A reformar,79.0,3,2,7,1970.0,Sí,2025-09-03,123503.0
+Este-Alcosa,Piso,Buen estado,66.1,3,3,4,2002.0,Sí,2024-04-03,122826.0
+Este-Alcosa,Piso,Reformado,66.5,3,2,2,1986.0,sí,2025-02-26,119418.0
+Este-Alcosa,Piso,A reformar,113.1,4,3,3,1972.0,no,2024-05-21,115721.0
+Este-Alcosa,Piso,Reformado,64.9,2,2,1,1987.0,No,2024-10-02,115009.0
+Este-Alcosa,Piso,Buen estado,62.9,2,1,8,2007.0,Sí,2024-05-14,114165.0
+Este-Alcosa,Piso,Buen estado,83.7,3,2,6,,,2025-07-09,112866.0
+Este-Alcosa,Piso,A reformar,77.9,3,3,3,1984.0,Sí,2024-11-26,111158.0
+Este-Alcosa,Piso,A reformar,107.4,4,2,0,,no,2024-11-16,105735.0
+Este-Alcosa,Piso,Buen estado,82.5,3,3,1,2009.0,No,2024-11-17,102080.0
+este-alcosa,Piso,Reformado,62.0,3,3,6,1974.0,Sí,2024-02-08,97470.0
+Este-Alcosa,Piso,Buen estado,52.7,2,2,8,1955.0,sí,2024-05-20,97004.0
+Este-Alcosa,Piso,Buen estado,56.1,2,2,8,1966.0,Sí,2025-03-16,96730.0
+Este-Alcosa,Piso,A reformar,82.2,3,3,6,1960.0,Sí,2024-01-29,95418.0
+este-alcosa,Piso,Buen estado,61.9,3,3,8,2022.0,sí,2024-06-03,93769.0
+Este-Alcosa,Piso,Obra nueva,40.1,2,1,2,2021.0,No,2024-05-17,88240.0
+Este-Alcosa,Piso,Reformado,39.3,2,1,2,2008.0,Sí,2025-11-23,87524.0
+Este-Alcosa,Piso,Reformado,64.0,1,1,3,1978.0,Sí,2024-04-24,86945.0
+Este-Alcosa,Piso,Buen estado,75.6,2,1,7,1964.0,Sí,2024-09-04,84670.0
+Este-Alcosa,Piso,Buen estado,48.6,3,2,0,1984.0,No,2025-09-15,83373.0
+Este-Alcosa,Piso,A reformar,55.6,2,2,8,,Sí,2024-04-30,77249.0
+Este-Alcosa,Piso,Reformado,43.3,3,3,6,1972.0,sí,2025-10-26,74695.0
+"Este-Alcosa ",Piso,Buen estado,67.2,1,1,0,,No,2025-05-22,71422.0
+Este-Alcosa,Piso,A reformar,70.8,4,3,5,,No,2024-06-01,67207.0
+Este-Alcosa,Piso,Reformado,49.2,2,1,7,1995.0,Sí,2025-07-09,64285.0
+Este-Alcosa,Piso,A reformar,59.8,3,3,7,1956.0,Sí,2025-03-24,61238.0
+Este-Alcosa,Piso,A reformar,65.4,2,1,2,,Sí,2025-06-23,57632.0
+Este-Alcosa,Piso,Buen estado,37.4,1,1,3,2018.0,sí,2024-06-15,51274.0
+Este-Alcosa,Piso,A reformar,40.1,2,1,0,1985.0,No,2025-04-30,49802.0
+Este-Alcosa,Piso,A reformar,40.0,2,2,7,1989.0,Sí,2024-08-24,49309.0
+Los Remedios,Piso,Buen estado,146.0,4,2,3,2006.0,sí,2024-02-18,630554.0
+Los Remedios,Piso,Obra nueva,127.2,5,2,4,2024.0,Sí,2024-11-27,623751.0
+Los Remedios,Piso,Obra nueva,105.6,3,2,7,2023.0,Sí,2024-12-22,569098.0
+Los Remedios,Piso,Buen estado,112.0,3,3,2,1966.0,Sí,2024-05-24,507713.0
+Los Remedios,Piso,A reformar,188.6,8,4,3,1968.0,Sí,2024-01-09,498574.0
+Los Remedios,Piso,Reformado,110.4,3,3,0,1983.0,SÍ,2024-05-31,497867.0
+Los Remedios,Piso,Reformado,144.7,4,2,5,1964.0,Sí,2025-03-12,464653.0
+Los Remedios,Piso,Reformado,123.3,4,3,5,2011.0,Sí,2025-01-13,440169.0
+Los Remedios,Piso,Buen estado,131.8,6,4,1,2014.0,No,2024-12-07,431019.0
+Los Remedios,Piso,Buen estado,131.5,5,2,5,1990.0,sí,2024-11-14,401103.0
+Los Remedios,Piso,Reformado,108.6,5,3,4,1982.0,Sí,2024-06-27,381249.0
+Los Remedios,Piso,Reformado,91.1,3,3,7,1973.0,,2025-01-07,369069.0
+Los Remedios,Piso,Reformado,,4,2,2,1993.0,Sí,2024-10-09,367212.0
+Los Remedios,Piso,Buen estado,104.3,4,3,1,1982.0,No,2024-04-04,352933.0
+Los Remedios,Piso,Reformado,94.6,2,2,1,2012.0,No,2024-02-05,349285.0
+Los Remedios,Piso,Reformado,102.7,5,3,0,2002.0,no,2024-10-16,333973.0
+Los Remedios,Piso,Buen estado,115.8,5,3,0,1975.0,No,2025-12-26,330212.0
+Los Remedios,Piso,Buen estado,69.7,1,1,5,2005.0,Sí,2025-12-25,329095.0
+Los Remedios,Piso,Reformado,120.1,4,2,0,1967.0,No,2024-06-26,317766.0
+Los Remedios,Piso,Reformado,77.1,3,3,1,1967.0,No,2024-10-13,312741.0
+Los Remedios,Piso,Buen estado,130.6,4,2,2,1991.0,Sí,2024-04-11,309935.0
+Los Remedios,Piso,Reformado,97.7,3,2,6,2006.0,No,2025-10-20,306500.0
+Los Remedios,Piso,A reformar,138.4,5,3,0,1955.0,No,2024-09-21,306486.0
+Los Remedios,Piso,Reformado,94.0,3,2,8,1982.0,Sí,2024-08-08,306281.0
+Los Remedios,Piso,Buen estado,111.9,4,3,6,1992.0,Sí,2025-06-29,302036.0
+Los Remedios,Piso,Buen estado,95.8,4,3,2,2016.0,Sí,2025-05-20,295155.0
+Los Remedios,Piso,Buen estado,91.9,3,3,2,1999.0,SÍ,2024-02-15,286936.0
+Los Remedios,Piso,Buen estado,114.4,5,3,7,,,2024-10-27,286536.0
+Los Remedios,Piso,Reformado,83.2,3,2,0,,No,2024-01-09,278919.0
+Los Remedios,Piso,Buen estado,111.3,4,3,7,1960.0,Sí,2025-04-30,271715.0
+Los Remedios,Piso,Buen estado,73.9,2,1,5,2020.0,Sí,2025-11-03,269800.0
+Los Remedios,Piso,Buen estado,67.6,2,1,6,1974.0,Sí,2024-04-13,268994.0
+Los Remedios,Piso,Obra nueva,83.8,3,2,6,2022.0,,2024-03-25,268298.0
+Los Remedios,Piso,Reformado,96.0,3,3,0,1957.0,Sí,2025-02-10,265763.0
+Los Remedios,Piso,Reformado,87.0,2,1,4,1998.0,,2024-10-07,265249.0
+Los Remedios,Piso,Buen estado,91.8,2,2,3,1992.0,,2024-08-31,262960.0
+Los Remedios,Piso,Reformado,82.4,3,2,0,1964.0,No,2024-09-07,256920.0
+Los Remedios,Piso,Buen estado,101.2,5,2,0,1974.0,,2024-05-10,249696.0
+Los Remedios,Piso,Reformado,46.5,2,2,1,2019.0,No,2024-03-06,240854.0
+Los Remedios,Piso,Buen estado,67.9,2,2,1,2006.0,No,2024-12-21,238818.0
+Los Remedios,Piso,Buen estado,97.2,2,2,1,2013.0,No,2025-06-29,238767.0
+Los Remedios,Piso,Reformado,77.7,2,2,3,1957.0,Sí,2024-10-19,237776.0
+Los Remedios,Piso,Buen estado,79.7,2,2,2,2014.0,Sí,2024-04-21,234146.0
+Los Remedios,Piso,Reformado,62.5,1,1,2,1972.0,Sí,2024-08-29,227296.0
+Los Remedios,Piso,A reformar,108.6,3,3,4,,Sí,2025-09-20,221265.0
+Los Remedios,Piso,Buen estado,101.8,3,3,5,1956.0,Sí,2024-05-30,212612.0
+Los Remedios,Piso,Buen estado,71.6,2,2,2,1987.0,SÍ,2024-11-21,209046.0
+Los Remedios,Piso,Buen estado,64.4,1,1,7,2014.0,Sí,2024-09-30,204887.0
+Los Remedios,Piso,Buen estado,79.9,3,3,0,2012.0,no,2024-01-08,203233.0
+Los Remedios,Piso,Buen estado,69.5,3,3,1,1975.0,No,2025-10-01,203197.0
+Los Remedios,Piso,Reformado,71.0,4,3,3,1970.0,No,2025-01-07,198774.0
+Los Remedios,Piso,Obra nueva,58.5,3,2,0,2020.0,NO,2024-08-05,196358.0
+Los Remedios,Piso,Buen estado,59.7,2,2,5,1994.0,Sí,2024-03-13,192862.0
+Los Remedios,Piso,Buen estado,78.4,3,3,6,1970.0,No,2025-12-06,175247.0
+Los Remedios,Piso,A reformar,84.5,4,3,6,,Sí,2025-11-07,168967.0
+Los Remedios,Piso,Reformado,50.9,3,3,0,2005.0,no,2025-12-12,162689.0
+Los Remedios,Piso,Reformado,56.0,2,2,2,,Sí,2024-08-13,153264.0
+Los Remedios,Piso,Reformado,61.3,3,2,1,1982.0,Sí,2024-05-22,152443.0
+Los Remedios,Piso,Buen estado,54.2,1,1,7,2006.0,No,2025-01-10,151136.0
+Los Remedios,Piso,Buen estado,80.5,2,2,3,1973.0,No,2025-01-21,146511.0
+Los Remedios,Piso,Buen estado,62.7,1,1,6,1963.0,Sí,2024-12-15,141399.0
+Los Remedios,Piso,A reformar,64.6,1,1,6,1962.0,No,2025-10-25,134985.0
+Los Remedios,Piso,Buen estado,51.3,3,3,6,2020.0,Sí,2025-09-21,124119.0
+Los Remedios,Piso,Buen estado,33.0,2,1,1,2011.0,no,2025-11-02,104842.0
+Los Remedios,Piso,A reformar,47.3,1,1,1,1977.0,No,2025-11-28,71856.0
+Los Remedios,Piso,Buen estado,96.5,4,3,5,2019.0,SÍ,2024-01-15,100.0
+Macarena,Piso,Obra nueva,110.6,4,2,8,2020.0,Sí,2024-10-29,417914.0
+Macarena,Piso,Reformado,128.7,5,2,8,2020.0,Sí,2025-09-24,394589.0
+Macarena,Piso,Obra nueva,132.0,6,4,5,2022.0,Sí,2025-01-10,386033.0
+Macarena,Piso,Obra nueva,131.3,5,3,1,2019.0,,2024-02-24,385405.0
+Macarena,Piso,Reformado,118.8,3,3,3,1994.0,Sí,2025-02-20,344531.0
+Macarena,Piso,Obra nueva,,2,2,2,2020.0,Sí,2024-11-07,311345.0
+Macarena,Piso,Buen estado,105.7,5,3,5,2003.0,Sí,2024-01-17,310110.0
+Macarena,Piso,Buen estado,131.8,6,4,6,2021.0,sí,2024-05-27,305644.0
+Macarena,Piso,A reformar,,7,5,1,1973.0,No,2025-05-17,288343.0
+Macarena,Piso,Obra nueva,89.1,4,3,5,2023.0,Sí,2024-10-31,285219.0
+Macarena,Piso,Buen estado,90.9,3,3,2,2003.0,Sí,2024-04-14,280385.0
+Macarena,Piso,Buen estado,122.0,4,3,7,2002.0,Sí,2025-11-23,266577.0
+Macarena,Piso,Buen estado,118.2,4,3,2,1994.0,Sí,2025-09-07,261204.0
+Macarena,Piso,Buen estado,104.0,4,3,6,2006.0,Sí,2025-03-18,253350.0
+Macarena,Piso,Reformado,94.5,3,2,7,,Sí,2025-05-08,248792.0
+Macarena,Piso,Buen estado,111.6,3,2,3,2012.0,Sí,2025-03-18,245363.0
+Macarena,Piso,Reformado,101.3,3,2,4,2010.0,Sí,2025-03-30,245112.0
+Macarena,Piso,Reformado,91.7,2,2,6,2021.0,sí,2025-12-03,244389.0
+Macarena,Piso,Buen estado,106.4,3,2,5,1982.0,Sí,2025-05-02,232062.0
+Macarena,Piso,Obra nueva,89.1,2,2,2,2020.0,sí,2024-01-20,227176.0
+Macarena,Piso,Buen estado,94.7,4,3,8,2020.0,sí,2025-01-14,227055.0
+Macarena,Piso,Buen estado,92.7,2,1,6,1963.0,Sí,2025-06-22,222104.0
+Macarena,Piso,Buen estado,124.2,3,3,3,2009.0,sí,2025-10-15,218831.0
+Macarena,Piso,Obra nueva,84.2,2,2,4,2023.0,sí,2025-03-19,217873.0
+Macarena,Piso,Reformado,86.8,4,3,3,1965.0,SÍ,2024-07-20,214754.0
+Macarena,Piso,Buen estado,83.7,2,2,7,,sí,2024-11-12,213715.0
+Macarena,Piso,Buen estado,70.0,3,2,7,2006.0,sí,2025-05-28,212476.0
+Macarena,Piso,Buen estado,109.2,3,2,2,1962.0,Sí,2025-05-26,211068.0
+Macarena,Piso,Buen estado,98.2,3,2,4,1980.0,no,2025-03-11,206240.0
+Macarena,Piso,Reformado,91.0,4,2,3,2008.0,Sí,2024-05-25,205996.0
+Macarena,Piso,Reformado,87.4,3,3,3,1972.0,SÍ,2024-10-30,205171.0
+Macarena,Piso,Buen estado,101.5,4,3,1,1988.0,no,2025-05-29,202739.0
+Macarena,Piso,A reformar,94.4,4,3,3,,Sí,2024-08-07,201260.0
+Macarena,Piso,Reformado,90.6,4,3,1,1964.0,Sí,2025-04-26,199910.0
+Macarena,Piso,Buen estado,115.3,4,3,2,1975.0,No,2025-02-09,199201.0
+Macarena,Piso,Reformado,100.4,5,2,5,1958.0,no,2025-01-16,197894.0
+Macarena,Piso,Buen estado,110.4,5,2,1,2021.0,no,2024-03-08,194225.0
+Macarena,Piso,Reformado,67.3,3,3,2,2006.0,Sí,2024-06-22,191916.0
+Macarena,Piso,A reformar,91.1,3,2,5,,No,2025-07-22,189705.0
+Macarena,Piso,Buen estado,66.4,3,2,4,2002.0,Sí,2024-07-17,189344.0
+Macarena,Piso,Buen estado,73.4,3,3,6,2008.0,Sí,2024-05-22,184224.0
+Macarena,Piso,Buen estado,106.6,5,3,1,2014.0,No,2024-08-07,183019.0
+Macarena,Piso,A reformar,116.3,4,3,5,1983.0,Sí,2024-01-26,181095.0
+Macarena,Piso,Buen estado,94.6,4,3,5,1963.0,Sí,2025-09-28,180966.0
+Macarena,Piso,A reformar,,3,2,0,1963.0,no,2025-12-01,178400.0
+Macarena,Piso,Obra nueva,77.3,3,3,4,2022.0,Sí,2025-09-16,178228.0
+Macarena,Piso,Reformado,56.1,3,3,4,1980.0,Sí,2025-09-24,177381.0
+Macarena,Piso,Buen estado,94.2,4,2,1,1992.0,,2025-04-23,176885.0
+Macarena,Piso,A reformar,115.6,4,2,1,,No,2024-03-10,176757.0
+Macarena,Piso,A reformar,140.5,6,3,1,,no,2025-08-04,176057.0
+Macarena,Piso,A reformar,94.0,4,3,7,1972.0,Sí,2025-06-23,175884.0
+Macarena,Piso,Buen estado,79.7,4,2,1,2003.0,No,2024-04-08,174756.0
+Macarena,Piso,Buen estado,81.5,3,2,7,2015.0,Sí,2024-03-20,171245.0
+Macarena,Piso,Buen estado,90.7,4,3,1,1979.0,,2025-01-04,168896.0
+Macarena,Piso,Reformado,92.2,3,2,1,1986.0,No,2025-12-23,168527.0
+Macarena,Piso,Buen estado,86.4,2,1,2,2005.0,Sí,2025-11-02,167985.0
+Macarena,Piso,Reformado,,4,2,3,1957.0,sí,2025-08-28,165761.0
+Macarena,Piso,Reformado,64.6,3,3,7,2013.0,Sí,2025-08-19,162195.0
+Macarena,Piso,Reformado,76.0,3,2,0,1981.0,No,2024-08-03,159907.0
+Macarena,Piso,A reformar,86.8,3,2,3,1971.0,no,2024-08-07,151432.0
+Macarena,Piso,A reformar,101.7,4,2,4,1986.0,no,2024-04-08,146874.0
+Macarena,Piso,A reformar,92.7,3,2,4,,Sí,2025-12-14,136358.0
+Macarena,Piso,Buen estado,78.0,3,2,4,1993.0,no,2025-01-18,134073.0
+Macarena,Piso,Buen estado,66.0,1,1,6,2001.0,No,2025-08-22,133711.0
+Macarena,Piso,Reformado,62.7,2,1,3,1974.0,Sí,2024-12-29,128686.0
+Macarena,Piso,A reformar,75.8,2,2,4,,Sí,2024-07-10,117163.0
+Macarena,Piso,A reformar,62.9,2,1,5,,Sí,2025-01-09,105558.0
+Macarena,Piso,A reformar,80.4,4,3,3,,Sí,2025-10-12,104624.0
+Macarena,Piso,A reformar,93.2,3,2,1,1955.0,No,2024-02-22,104493.0
+Macarena,Piso,Reformado,80.9,4,3,3,1978.0,Sí,2024-05-28,103283.0
+Macarena,Piso,A reformar,49.4,2,2,8,,Sí,2024-05-06,102461.0
+Macarena,Piso,Reformado,33.9,1,1,5,1989.0,Sí,2024-01-10,98199.0
+Macarena,Piso,Buen estado,45.3,2,1,8,1987.0,Sí,2025-12-25,97875.0
+Macarena,Piso,A reformar,62.0,3,3,4,1986.0,Sí,2025-09-21,96312.0
+Macarena,Piso,A reformar,57.0,1,1,3,1988.0,Sí,2025-01-19,95556.0
+Macarena,Piso,Buen estado,54.9,3,3,8,1961.0,No,2025-11-19,94016.0
+Macarena,Piso,A reformar,,3,2,7,1959.0,Sí,2025-06-04,86007.0
+Macarena,Piso,Reformado,31.4,2,1,8,1998.0,No,2024-08-06,85491.0
+Macarena,Piso,Buen estado,28.0,2,2,5,2000.0,sí,2024-09-27,79242.0
+Macarena,Piso,A reformar,53.1,1,1,0,1956.0,No,2024-07-12,71758.0
+Macarena,Piso,A reformar,47.0,2,2,4,1962.0,Sí,2025-08-12,66970.0
+Macarena,Piso,Buen estado,28.0,2,1,8,1959.0,Sí,2024-10-15,56062.0
+Macarena,Piso,A reformar,28.0,1,1,6,,Sí,2024-04-26,42255.0
+Macarena,Piso,A reformar,28.0,1,1,1,1959.0,,2025-06-29,26028.0
+Nervión,Piso,Reformado,134.9,5,3,2,2016.0,Sí,2024-06-28,679254.0
+Nervión,Piso,Obra nueva,,6,3,6,2022.0,sí,2025-10-20,671159.0
+Nervión,Piso,Reformado,156.5,6,3,7,1964.0,no,2024-09-26,608093.0
+Nervión,Piso,Reformado,118.7,3,3,6,1956.0,Sí,2024-03-01,529844.0
+Nervión,Piso,Obra nueva,105.0,3,3,8,2021.0,SÍ,2025-09-26,521197.0
+Nervión,Piso,Reformado,91.9,4,3,4,,NO,2025-09-07,502579.0
+Nervión,Piso,Buen estado,167.2,6,4,5,1984.0,Sí,2024-12-17,489201.0
+Nervión,Piso,Buen estado,170.4,5,3,5,1968.0,sí,2024-03-19,471685.0
+Nervión,Piso,Obra nueva,108.8,5,3,0,2022.0,No,2025-02-18,468861.0
+Nervión,Piso,Reformado,99.5,5,3,4,2021.0,Sí,2025-12-07,440371.0
+Nervión,Piso,Reformado,81.4,4,3,6,2016.0,Sí,2025-05-19,427334.0
+Nervión,Piso,Obra nueva,121.3,5,2,5,2022.0,Sí,2024-02-12,425293.0
+Nervión,Piso,Obra nueva,91.6,3,3,6,2020.0,No,2025-09-01,413123.0
+Nervión,Piso,Reformado,106.1,3,2,3,1965.0,sí,2024-07-13,406805.0
+Nervión,Piso,Buen estado,107.7,5,3,0,2007.0,Sí,2025-07-02,396605.0
+Nervión,Piso,Buen estado,106.8,4,3,3,1979.0,Sí,2025-10-06,394620.0
+Nervión,Piso,Buen estado,107.7,5,2,0,1992.0,no,2024-08-12,391585.0
+Nervión,Piso,Buen estado,102.7,3,2,6,1981.0,sí,2024-04-13,388915.0
+Nervión,Piso,Reformado,118.3,4,3,6,1981.0,Sí,2024-11-02,386070.0
+Nervión,Piso,Buen estado,114.5,5,2,8,1955.0,Sí,2024-05-26,370468.0
+Nervión,Piso,Buen estado,,4,2,2,1994.0,Sí,2025-09-18,367543.0
+Nervión,Piso,Reformado,124.1,5,3,6,1964.0,Sí,2025-08-19,345932.0
+Nervión,Piso,Obra nueva,70.6,2,1,7,2023.0,Sí,2025-01-29,343185.0
+Nervión,Piso,Reformado,93.4,4,2,3,2008.0,sí,2025-10-30,342198.0
+Nervión,Piso,Buen estado,131.4,5,2,3,1956.0,Sí,2024-09-27,328944.0
+Nervión,Piso,Buen estado,112.8,5,2,4,1975.0,sí,2025-03-11,327410.0
+Nervión,Piso,Obra nueva,61.5,1,1,3,2023.0,sí,2025-08-25,312235.0
+Nervión,Piso,Buen estado,93.7,4,2,2,1971.0,SÍ,2025-07-17,307943.0
+Nervión,Piso,Buen estado,95.5,3,2,8,1989.0,sí,2025-04-22,304564.0
+Nervión,Piso,Buen estado,96.9,3,3,5,2020.0,SÍ,2025-10-31,303494.0
+Nervión,Piso,Reformado,88.5,4,2,2,2004.0,Sí,2024-07-10,303272.0
+Nervión,Piso,Obra nueva,77.8,3,2,8,2021.0,sí,2025-02-05,301216.0
+Nervión,Piso,Obra nueva,63.6,2,2,4,2025.0,Sí,2025-08-27,296432.0
+Nervión,Piso,Buen estado,80.3,4,3,4,2021.0,sí,2024-02-15,289484.0
+Nervión,Piso,Buen estado,83.5,3,3,8,1988.0,Sí,2024-12-29,288432.0
+Nervión,Piso,Buen estado,92.8,3,3,2,1991.0,no,2024-04-03,287443.0
+Nervión,Piso,Buen estado,83.9,3,3,6,2008.0,SÍ,2024-10-14,281422.0
+Nervión,Piso,Obra nueva,60.8,3,2,0,2022.0,No,2024-03-31,278387.0
+Nervión,Piso,Reformado,82.8,4,2,8,1960.0,Sí,2025-09-27,273783.0
+Nervión,Piso,A reformar,125.6,3,3,7,1972.0,Sí,2024-12-18,270691.0
+Nervión,Piso,Reformado,64.4,2,2,8,1969.0,Sí,2025-04-19,268575.0
+Nervión,Piso,Obra nueva,65.6,1,1,5,2019.0,No,2024-03-02,265325.0
+Nervión,Piso,Buen estado,71.8,3,3,5,1967.0,Sí,2025-08-06,265088.0
+Nervión,Piso,Obra nueva,,1,1,4,2021.0,SÍ,2025-05-12,264812.0
+Nervión,Piso,Reformado,106.5,5,2,1,1956.0,No,2025-03-24,264708.0
+Nervión,Piso,Buen estado,66.8,3,2,2,2019.0,no,2025-02-20,263533.0
+Nervión,Piso,Reformado,,3,3,0,1961.0,No,2024-12-25,247225.0
+Nervión,Piso,Buen estado,102.2,3,2,6,1965.0,Sí,2024-12-29,247141.0
+Nervión,Piso,Buen estado,70.5,3,3,4,2011.0,Sí,2024-12-05,246572.0
+Nervión,Piso,Buen estado,66.7,3,3,7,1988.0,Sí,2025-03-30,236183.0
+Nervión,Piso,A reformar,105.9,4,2,0,1955.0,Sí,2024-04-10,231040.0
+Nervión,Piso,A reformar,110.2,4,3,4,1969.0,Sí,2024-04-28,217957.0
+Nervión,Piso,A reformar,79.4,3,3,5,1959.0,Sí,2025-10-14,216821.0
+Nervión,Piso,A reformar,98.4,4,2,8,,SÍ,2025-12-28,213787.0
+Nervión,Piso,Buen estado,79.6,3,2,5,2006.0,NO,2024-03-05,213581.0
+Nervión,Piso,Buen estado,95.0,3,2,4,1969.0,Sí,2025-09-17,212564.0
+Nervión,Piso,Buen estado,74.2,3,3,5,1976.0,Sí,2024-09-13,209558.0
+Nervión,Piso,Buen estado,86.3,4,3,5,2014.0,sí,2025-12-08,206507.0
+Nervión,Piso,Buen estado,83.3,3,2,5,2000.0,Sí,2025-12-23,202999.0
+Nervión,Piso,Buen estado,61.4,1,1,4,1969.0,Sí,2024-09-18,197618.0
+Nervión,Piso,Reformado,85.2,3,3,2,1961.0,No,2025-02-20,196102.0
+Nervión,Piso,Buen estado,80.1,3,3,4,1973.0,Sí,2025-10-21,194319.0
+Nervión,Piso,Reformado,56.2,2,1,5,1975.0,SÍ,2025-12-27,191819.0
+Nervión,Piso,Buen estado,62.4,3,3,0,,no,2025-04-04,189800.0
+Nervión,Piso,Buen estado,,4,3,6,1980.0,sí,2025-01-14,184417.0
+Nervión,Piso,Reformado,48.5,1,1,2,1981.0,,2025-02-04,183640.0
+Nervión,Piso,Buen estado,68.6,1,1,3,1999.0,No,2024-07-09,177691.0
+Nervión,Piso,A reformar,97.0,3,2,5,1962.0,Sí,2025-01-23,177345.0
+Nervión,Piso,A reformar,103.2,5,3,8,,sí,2024-11-17,175977.0
+Nervión,Piso,A reformar,88.5,4,2,5,1988.0,Sí,2024-09-10,173738.0
+Nervión,Piso,A reformar,96.3,4,3,6,1956.0,Sí,2025-10-12,173520.0
+Nervión,Piso,Buen estado,65.8,1,1,6,2004.0,No,2024-04-27,172787.0
+Nervión,Piso,Buen estado,54.0,1,1,8,2010.0,SÍ,2025-03-21,171687.0
+Nervión,Piso,Buen estado,59.9,3,3,8,1993.0,Sí,2024-10-16,171396.0
+Nervión,Piso,Reformado,53.3,1,1,2,1962.0,sí,2025-08-28,170849.0
+Nervión,Piso,Obra nueva,,2,2,5,2022.0,Sí,2025-04-09,169447.0
+Nervión,Piso,A reformar,92.4,3,2,0,1960.0,NO,2024-03-21,168629.0
+Nervión,Piso,Buen estado,58.1,1,1,1,1956.0,No,2025-03-16,161970.0
+Nervión,Piso,Reformado,51.8,1,1,6,1987.0,Sí,2024-10-09,157508.0
+Nervión,Piso,A reformar,73.6,3,3,6,1959.0,Sí,2024-01-14,155619.0
+Nervión,Piso,A reformar,,1,1,7,1960.0,Sí,2025-08-02,153611.0
+Nervión,Piso,Buen estado,53.5,3,3,1,1955.0,No,2024-08-18,153103.0
+Nervión,Piso,A reformar,87.1,2,1,0,,No,2024-01-17,149281.0
+Nervión,Piso,Buen estado,60.1,2,2,1,1956.0,No,2025-09-12,148631.0
+Nervión,Piso,Buen estado,42.6,3,3,0,1996.0,No,2024-04-29,142690.0
+Nervión,Piso,Buen estado,57.8,1,1,6,1970.0,No,2025-07-27,140280.0
+Nervión,Piso,A reformar,75.6,4,2,7,1960.0,Sí,2024-09-13,136650.0
+Nervión,Piso,Obra nueva,35.6,2,1,2,2025.0,,2024-06-01,130583.0
+Nervión,Piso,Reformado,33.0,1,1,5,1979.0,No,2025-04-20,123495.0
+Nervión,Piso,Buen estado,40.4,1,1,6,1989.0,Sí,2025-07-10,114633.0
+Nervión,Piso,A reformar,61.7,2,2,1,1972.0,No,2024-06-07,109856.0
+Nervión,Piso,A reformar,38.4,1,1,3,1973.0,Sí,2024-01-21,102232.0
+Nervión,Piso,Reformado,28.0,2,2,0,1968.0,No,2024-06-07,75550.0
+Nervión,Piso,Buen estado,28.4,1,1,4,1958.0,no,2024-09-07,75206.0
+San Pablo,Piso,Reformado,126.0,5,3,3,2016.0,Sí,2025-03-18,292837.0
+San Pablo,Piso,Buen estado,125.1,4,3,4,2009.0,Sí,2025-08-09,286082.0
+San Pablo,Piso,Reformado,110.5,3,3,7,1997.0,No,2024-05-23,274693.0
+San Pablo,Piso,Buen estado,94.4,2,2,2,,Sí,2025-12-12,267307.0
+San Pablo,Piso,Buen estado,,4,2,8,2006.0,Sí,2025-01-18,256659.0
+San Pablo,Piso,Obra nueva,88.5,3,3,3,2022.0,Sí,2024-04-17,253442.0
+San Pablo,Piso,Buen estado,130.0,4,3,3,1960.0,SÍ,2024-01-07,249553.0
+San Pablo,Piso,Reformado,83.7,4,3,7,1968.0,Sí,2024-07-29,229667.0
+San Pablo,Piso,Reformado,79.8,4,3,8,1971.0,Sí,2024-03-27,224118.0
+San Pablo,Piso,Buen estado,98.9,4,2,0,2022.0,No,2025-01-11,211447.0
+San Pablo,Piso,Reformado,96.8,2,1,7,2000.0,Sí,2024-02-26,210678.0
+San Pablo,Piso,Buen estado,88.0,2,1,6,1994.0,Sí,2025-07-21,209398.0
+San Pablo,Piso,Buen estado,121.9,5,3,4,2005.0,Sí,2024-03-02,203031.0
+San Pablo,Piso,Buen estado,,5,2,7,1978.0,Sí,2024-01-19,199762.0
+San Pablo,Piso,Reformado,82.4,4,3,4,1967.0,Sí,2024-04-08,195398.0
+San Pablo,Piso,Buen estado,,6,4,0,1966.0,NO,2025-01-27,192511.0
+San Pablo,Piso,Buen estado,101.4,5,2,5,1977.0,Sí,2025-04-14,183842.0
+San Pablo,Piso,Buen estado,85.0,3,2,4,2008.0,No,2024-10-13,181449.0
+San Pablo,Piso,Buen estado,87.6,4,3,8,1957.0,Sí,2025-12-08,181081.0
+San Pablo,Piso,Obra nueva,74.0,4,3,5,2024.0,Sí,2024-11-29,178864.0
+San Pablo,Piso,Reformado,124.0,5,3,4,1965.0,SÍ,2025-08-09,178596.0
+San Pablo,Piso,Buen estado,118.2,4,3,3,1989.0,No,2025-08-27,177114.0
+San Pablo,Piso,Reformado,60.7,3,3,6,1994.0,Sí,2024-02-02,176759.0
+San Pablo,Piso,Buen estado,81.4,3,2,5,2016.0,No,2024-11-22,174794.0
+San Pablo,Piso,A reformar,127.9,4,2,0,1980.0,No,2024-06-17,170934.0
+San Pablo,Piso,Buen estado,85.1,2,2,1,1980.0,No,2024-06-24,167047.0
+San Pablo,Piso,Reformado,,3,3,8,2021.0,sí,2025-07-21,166847.0
+San Pablo,Piso,Reformado,75.9,3,2,8,1983.0,Sí,2025-03-29,152437.0
+San Pablo,Piso,Buen estado,93.9,2,1,4,2006.0,sí,2024-06-12,152309.0
+San Pablo,Piso,Buen estado,93.9,2,1,4,2006.0,sí,2024-06-12,152309.0
+San Pablo,Piso,Reformado,77.5,3,2,5,1971.0,Sí,2025-07-18,151455.0
+San Pablo,Piso,Buen estado,104.4,3,2,6,1957.0,Sí,2024-03-18,150288.0
+San Pablo,Piso,Obra nueva,64.1,1,1,2,2019.0,sí,2025-08-30,150049.0
+San Pablo,Piso,A reformar,108.7,4,2,5,1964.0,sí,2025-08-03,144715.0
+San Pablo,Piso,Buen estado,102.3,5,3,3,1991.0,Sí,2025-05-22,144642.0
+San Pablo,Piso,A reformar,108.7,4,2,5,1966.0,Sí,2025-10-04,144017.0
+San Pablo,Piso,Buen estado,107.8,3,3,5,,sí,2025-05-09,143840.0
+San Pablo,Piso,Buen estado,98.4,4,2,5,1968.0,No,2024-11-29,143433.0
+San Pablo,Piso,Buen estado,81.0,2,2,7,1965.0,SÍ,2024-10-23,142518.0
+San Pablo,Piso,Reformado,86.8,4,2,3,1996.0,Sí,2024-01-17,140600.0
+San Pablo,Piso,Buen estado,78.7,3,3,0,1972.0,No,2024-04-02,138527.0
+San Pablo,Piso,Reformado,95.2,4,2,3,1979.0,No,2024-06-09,134979.0
+San Pablo,Piso,Reformado,53.3,1,1,7,1963.0,sí,2024-07-03,134759.0
+San Pablo,Piso,Buen estado,62.7,2,1,5,1974.0,Sí,2024-12-30,134267.0
+San Pablo,Piso,A reformar,103.9,3,3,2,,Sí,2025-06-23,133379.0
+San Pablo,Piso,Buen estado,97.5,2,1,6,1971.0,no,2025-09-12,131843.0
+San Pablo,Piso,Reformado,58.5,1,1,7,1964.0,Sí,2025-10-09,131161.0
+San Pablo,Piso,Buen estado,102.3,5,3,3,2003.0,Sí,2025-03-14,128289.0
+San Pablo,Piso,A reformar,71.1,4,2,2,,Sí,2025-08-31,128183.0
+San Pablo,Piso,Reformado,70.9,3,3,1,2020.0,No,2024-03-30,127782.0
+San Pablo,Piso,Reformado,59.0,2,1,4,2010.0,sí,2024-04-05,125445.0
+San Pablo,Piso,Buen estado,56.9,2,1,2,2001.0,,2025-01-19,125203.0
+San Pablo,Piso,A reformar,107.5,5,3,7,,SÍ,2024-08-05,124161.0
+San Pablo,Piso,Buen estado,62.0,1,1,8,1955.0,,2024-03-11,124128.0
+San Pablo,Piso,Buen estado,71.7,3,3,8,2007.0,Sí,2024-03-11,120526.0
+San Pablo,Piso,A reformar,87.9,3,3,3,,Sí,2025-10-19,120325.0
+San Pablo,Piso,Buen estado,64.8,3,2,1,1999.0,No,2024-02-01,118412.0
+San Pablo,Piso,A reformar,123.2,5,2,8,1976.0,Sí,2025-05-09,114728.0
+San Pablo,Piso,Buen estado,72.2,3,2,4,1956.0,Sí,2024-04-12,114656.0
+San Pablo,Piso,A reformar,101.9,3,2,2,,Sí,2025-04-20,113688.0
+San Pablo,Piso,Reformado,49.5,1,1,4,2021.0,SÍ,2025-04-26,107137.0
+San Pablo,Piso,Buen estado,,3,3,6,1967.0,Sí,2025-08-28,107060.0
+San Pablo,Piso,A reformar,90.7,2,2,7,1983.0,sí,2025-03-18,106548.0
+San Pablo,Piso,A reformar,90.7,2,2,7,1983.0,sí,2025-03-18,106548.0
+San Pablo,Piso,Buen estado,70.2,4,3,0,1990.0,No,2025-12-02,106496.0
+San Pablo,Piso,A reformar,92.5,2,2,8,,Sí,2025-07-07,105994.0
+San Pablo,Piso,Buen estado,59.9,2,1,4,1982.0,Sí,2024-03-11,102169.0
+San Pablo,Piso,A reformar,77.1,2,2,2,,No,2024-04-07,100137.0
+San Pablo,Piso,Reformado,45.1,2,2,2,1991.0,Sí,2025-08-17,97469.0
+San Pablo,Piso,Buen estado,50.1,2,2,8,1991.0,sí,2025-04-03,97349.0
+San Pablo,Piso,Buen estado,64.3,2,2,3,1981.0,Sí,2024-05-28,96541.0
+San Pablo,Piso,A reformar,80.6,2,1,5,1965.0,,2025-01-20,96484.0
+San Pablo,Piso,Buen estado,58.3,2,2,5,1964.0,Sí,2024-06-30,95691.0
+San Pablo,Piso,A reformar,79.4,4,2,4,1983.0,No,2024-05-03,92544.0
+San Pablo,Piso,Buen estado,,1,1,5,1994.0,SÍ,2025-12-20,91466.0
+San Pablo,Piso,Buen estado,58.2,2,1,4,2003.0,sí,2025-01-28,89633.0
+San Pablo,Piso,Buen estado,58.2,2,1,4,2003.0,sí,2025-01-28,89633.0
+San Pablo,Piso,Obra nueva,44.9,2,2,4,2024.0,Sí,2025-10-12,88394.0
+San Pablo,Piso,Reformado,43.1,1,1,4,2004.0,Sí,2024-04-30,84039.0
+San Pablo,Piso,Buen estado,47.3,1,1,0,2013.0,no,2025-12-06,75375.0
+San Pablo,Piso,Buen estado,52.9,3,2,4,2006.0,Sí,2024-07-08,67048.0
+San Pablo,Piso,Reformado,37.2,1,1,2,1961.0,No,2024-01-19,65751.0
+San Pablo,Piso,Buen estado,38.8,1,1,7,2018.0,Sí,2025-08-08,65742.0
+San Pablo,Piso,Reformado,40.7,1,1,6,1975.0,Sí,2024-11-01,60435.0
+San Pablo,Piso,Buen estado,28.0,1,1,1,2010.0,Sí,2024-01-27,49541.0
+San Pablo,Piso,Buen estado,33.5,2,2,2,1975.0,Sí,2025-01-23,48500.0
+San Pablo,Piso,Reformado,28.0,2,1,6,2015.0,sí,2024-01-08,47464.0
+San Pablo,Piso,Buen estado,28.0,1,1,4,1974.0,SÍ,2025-01-17,43998.0
+San Pablo,Piso,Buen estado,31.9,1,1,6,1968.0,Sí,2025-09-27,38527.0
+Sur,Piso,Obra nueva,130.3,5,3,8,2020.0,sí,2025-02-12,431940.0
+Sur,Piso,Obra nueva,86.7,3,3,1,2021.0,Sí,2025-07-05,284168.0
+Sur,Piso,Reformado,123.4,4,3,0,1974.0,No,2024-11-03,278174.0
+Sur,Piso,Reformado,120.4,4,3,0,1961.0,No,2024-08-31,248239.0
+Sur,Piso,Reformado,117.6,5,3,6,1974.0,,2025-02-13,245234.0
+Sur,Piso,Reformado,111.6,4,3,6,2001.0,Sí,2024-04-08,232671.0
+Sur,Piso,Reformado,103.3,4,3,6,2020.0,SÍ,2025-11-14,229746.0
+Sur,Piso,Buen estado,99.2,4,2,0,2004.0,,2025-07-27,226802.0
+Sur,Piso,Buen estado,138.1,4,2,0,1955.0,Sí,2025-05-12,218184.0
+Sur,Piso,Buen estado,124.2,3,2,4,1967.0,sí,2024-07-26,212254.0
+Sur,Piso,Obra nueva,80.9,3,3,7,,sí,2025-03-12,211484.0
+Sur,Piso,Reformado,107.8,3,3,4,1994.0,,2025-10-05,209632.0
+Sur,Piso,Buen estado,95.2,3,3,4,1991.0,Sí,2025-04-13,203787.0
+Sur,Piso,Reformado,112.1,5,2,6,1981.0,Sí,2025-08-04,193606.0
+Sur,Piso,Reformado,87.8,4,2,8,2018.0,Sí,2025-03-14,191169.0
+Sur,Piso,Buen estado,130.9,6,4,2,1967.0,Sí,2025-02-26,187396.0
+Sur,Piso,Buen estado,98.4,3,3,6,2005.0,Sí,2025-01-26,184692.0
+Sur,Piso,Buen estado,100.0,4,2,1,1997.0,NO,2025-09-29,183770.0
+Sur,Piso,Reformado,80.0,2,2,6,2013.0,SÍ,2025-04-26,182750.0
+Sur,Piso,Obra nueva,91.3,3,3,5,2022.0,,2024-06-18,180906.0
+Sur,Piso,Reformado,94.9,3,3,2,1986.0,Sí,2025-06-22,176872.0
+Sur,Piso,Buen estado,102.3,5,3,0,1969.0,No,2024-08-22,169135.0
+Sur,Piso,Buen estado,75.5,2,1,3,1965.0,Sí,2024-07-10,164107.0
+Sur,Piso,Reformado,68.2,2,2,5,2014.0,SÍ,2025-11-25,162155.0
+Sur,Piso,Buen estado,68.5,2,1,6,2003.0,No,2024-01-01,162041.0
+Sur,Piso,Reformado,73.4,2,1,2,1996.0,Sí,2025-08-03,161987.0
+Sur,Piso,Reformado,60.8,1,1,6,2018.0,Sí,2025-02-17,161464.0
+Sur,Piso,Buen estado,102.3,5,3,7,1992.0,no,2024-07-26,160811.0
+Sur,Piso,Reformado,73.2,3,3,6,2015.0,sí,2024-03-07,155145.0
+Sur,Piso,Reformado,77.1,2,1,2,2018.0,sí,2025-03-15,145386.0
+Sur,Piso,Buen estado,86.0,4,2,5,1982.0,Sí,2024-08-16,142624.0
+Sur,Piso,A reformar,97.8,3,3,0,,No,2025-02-09,136492.0
+Sur,Piso,A reformar,120.7,4,3,0,1981.0,No,2025-07-08,134608.0
+Sur,Piso,A reformar,101.9,3,3,1,1976.0,No,2024-11-11,126703.0
+Sur,Piso,Buen estado,63.8,3,2,0,1980.0,,2025-08-23,126548.0
+Sur,Piso,Buen estado,79.3,3,3,0,1970.0,no,2025-10-10,119817.0
+Sur,Piso,Buen estado,65.2,1,1,6,1989.0,,2024-08-25,118581.0
+Sur,Piso,Reformado,57.6,1,1,3,2000.0,SÍ,2025-05-21,109154.0
+Sur,Piso,Buen estado,62.3,3,3,7,1970.0,sí,2024-05-07,108481.0
+Sur,Piso,Buen estado,65.5,3,2,8,2009.0,NO,2025-03-28,99873.0
+Sur,Piso,Obra nueva,43.3,3,2,1,2020.0,NO,2025-02-24,95242.0
+Sur,Piso,A reformar,64.0,2,2,3,1959.0,no,2024-08-29,90979.0
+Sur,Piso,Reformado,49.2,2,1,3,2017.0,,2024-08-11,86315.0
+Sur,Piso,Buen estado,53.7,1,1,8,1957.0,SÍ,2025-02-22,84144.0
+Sur,Piso,A reformar,75.4,4,2,4,1985.0,Sí,2024-10-18,80904.0
+Sur,Piso,Buen estado,55.0,2,2,2,1995.0,Sí,2024-11-17,80390.0
+Sur,Piso,Reformado,40.7,1,1,1,2018.0,No,2025-01-01,68896.0
+Sur,Piso,A reformar,,4,3,7,,No,2025-04-13,63306.0
+Sur,Piso,A reformar,,2,1,3,1962.0,,2025-08-28,51858.0
+Triana,Piso,Buen estado,140.6,6,3,4,1999.0,SÍ,2024-05-27,492025.0
+Triana,Piso,Obra nueva,129.4,6,3,6,2022.0,SÍ,2025-04-29,491115.0
+Triana,Piso,Reformado,97.8,2,2,7,2008.0,sí,2024-06-18,483333.0
+Triana,Piso,Reformado,122.1,5,2,3,1996.0,Sí,2024-11-05,453824.0
+Triana,Piso,Obra nueva,108.9,5,3,1,2022.0,,2024-06-21,438314.0
+Triana,Piso,Buen estado,143.3,6,4,0,1972.0,no,2025-09-28,429117.0
+Triana,Piso,Obra nueva,106.7,5,3,2,2022.0,Sí,2025-07-18,428538.0
+Triana,Piso,Buen estado,108.3,4,3,1,1977.0,sí,2025-04-25,427055.0
+Triana,Piso,Reformado,97.1,4,3,1,1971.0,No,2024-05-07,422981.0
+Triana,Piso,Buen estado,117.4,4,3,7,1955.0,SÍ,2024-01-09,409134.0
+Triana,Piso,Reformado,110.3,3,3,3,2009.0,no,2024-05-17,397248.0
+Triana,Piso,Buen estado,116.4,3,2,1,2015.0,,2024-03-11,391129.0
+Triana,Piso,Reformado,128.6,6,4,1,2023.0,No,2024-12-21,387301.0
+Triana,Piso,Reformado,83.0,2,2,1,1981.0,,2024-09-17,386082.0
+Triana,Piso,Obra nueva,89.5,2,1,7,2025.0,Sí,2025-10-14,384071.0
+Triana,Piso,Buen estado,95.4,4,3,6,1972.0,Sí,2025-12-09,382222.0
+Triana,Piso,Buen estado,116.0,3,3,5,2008.0,Sí,2024-12-13,379544.0
+Triana,Piso,Reformado,94.8,2,2,5,1960.0,Sí,2025-02-21,364774.0
+Triana,Piso,Buen estado,101.4,3,3,3,1968.0,Sí,2025-12-24,360070.0
+Triana,Piso,Buen estado,138.4,6,3,2,1971.0,Sí,2024-12-15,359706.0
+Triana,Piso,Obra nueva,94.6,3,3,3,2023.0,Sí,2024-11-21,348711.0
+Triana,Piso,Buen estado,83.1,3,3,5,2018.0,No,2024-06-10,348053.0
+Triana,Piso,Buen estado,101.7,5,3,5,2001.0,Sí,2024-12-04,346933.0
+Triana,Piso,Reformado,116.6,5,2,0,1979.0,No,2024-05-13,346076.0
+Triana,Piso,Reformado,76.8,2,1,1,1987.0,No,2024-11-16,337653.0
+Triana,Piso,Reformado,118.7,3,3,8,1983.0,no,2024-02-14,333408.0
+Triana,Piso,Buen estado,133.7,4,2,6,1975.0,Sí,2025-05-03,327604.0
+Triana,Piso,Buen estado,92.1,4,3,4,2010.0,Sí,2024-05-11,326867.0
+Triana,Piso,Reformado,104.3,3,3,5,1970.0,sí,2025-07-04,319574.0
+Triana,Piso,Obra nueva,100.0,4,3,4,2025.0,Sí,2024-03-29,307325.0
+Triana,Piso,Buen estado,103.3,3,2,8,1979.0,Sí,2025-10-22,293316.0
+Triana,Piso,Buen estado,73.9,2,2,3,2010.0,Sí,2025-12-20,289294.0
+Triana,Piso,A reformar,118.5,3,3,2,1975.0,Sí,2025-07-24,288075.0
+Triana,Piso,Buen estado,96.7,3,3,3,1960.0,,2024-09-26,286834.0
+Triana,Piso,A reformar,140.1,4,2,7,,Sí,2024-07-12,283244.0
+Triana,Piso,Reformado,100.9,3,3,8,1987.0,NO,2025-02-09,278361.0
+Triana,Piso,Buen estado,81.5,3,3,5,2023.0,Sí,2025-10-10,277186.0
+Triana,Piso,Reformado,99.1,4,3,6,1987.0,Sí,2024-04-03,274953.0
+Triana,Piso,Buen estado,95.8,4,2,5,1969.0,SÍ,2025-08-05,272683.0
+Triana,Piso,Reformado,71.7,3,2,4,1974.0,SÍ,2024-06-02,272603.0
+Triana,Piso,Buen estado,95.6,4,3,5,1966.0,sí,2025-12-06,270088.0
+Triana,Piso,Buen estado,74.0,3,3,5,1972.0,SÍ,2024-03-25,269304.0
+Triana,Piso,Obra nueva,73.1,2,1,7,2023.0,Sí,2024-06-11,262176.0
+Triana,Piso,Buen estado,92.6,3,2,1,2007.0,no,2024-04-23,262024.0
+Triana,Piso,Buen estado,,3,2,0,2003.0,,2024-04-13,259859.0
+Triana,Piso,Reformado,73.6,2,1,8,2009.0,,2025-12-08,259461.0
+Triana,Piso,Buen estado,82.4,3,3,5,1979.0,sí,2024-11-25,259071.0
+Triana,Piso,Buen estado,87.4,2,2,6,1991.0,Sí,2025-10-24,251181.0
+Triana,Piso,Reformado,80.7,4,2,4,1956.0,Sí,2025-06-15,250289.0
+Triana,Piso,Buen estado,85.9,2,2,7,1975.0,sí,2025-03-06,248777.0
+Triana,Piso,Buen estado,94.3,2,1,4,2020.0,No,2025-12-19,248718.0
+Triana,Piso,Buen estado,85.4,3,2,7,1991.0,No,2024-11-29,247380.0
+Triana,Piso,A reformar,,5,2,1,,,2024-07-29,242757.0
+Triana,Piso,Buen estado,66.7,2,2,7,1969.0,Sí,2024-06-11,242012.0
+Triana,Piso,Buen estado,93.5,3,3,0,2013.0,NO,2024-11-30,219251.0
+Triana,Piso,A reformar,87.8,2,1,1,1961.0,No,2024-10-19,215594.0
+Triana,Piso,Reformado,66.1,2,2,7,2022.0,Sí,2024-04-14,214281.0
+Triana,Piso,Buen estado,101.0,4,2,1,1992.0,,2024-10-19,213934.0
+Triana,Piso,Reformado,73.8,2,1,4,1975.0,Sí,2024-09-20,211276.0
+Triana,Piso,A reformar,95.7,4,2,4,1960.0,,2025-08-24,209890.0
+Triana,Piso,A reformar,86.4,3,2,1,,No,2024-01-22,205241.0
+Triana,Piso,Reformado,63.2,2,1,4,1955.0,sí,2025-08-06,202836.0
+Triana,Piso,Reformado,82.2,2,2,8,1956.0,NO,2025-01-02,201182.0
+Triana,Piso,Buen estado,71.1,4,3,0,1976.0,sí,2024-02-15,200035.0
+Triana,Piso,Buen estado,87.0,4,3,3,1961.0,Sí,2025-11-27,197311.0
+Triana,Piso,Buen estado,83.5,2,1,0,,No,2025-10-05,196234.0
+Triana,Piso,Buen estado,55.2,2,1,4,,sí,2025-12-07,195746.0
+Triana,Piso,Buen estado,82.6,2,2,7,1996.0,Sí,2025-03-12,192761.0
+Triana,Piso,Reformado,99.2,4,2,7,1967.0,Sí,2024-02-14,192096.0
+Triana,Piso,Reformado,61.4,1,1,6,2015.0,No,2025-03-24,190053.0
+Triana,Piso,Obra nueva,63.5,1,1,4,2024.0,No,2024-08-30,188309.0
+Triana,Piso,Reformado,53.7,1,1,8,2012.0,,2024-05-15,182388.0
+Triana,Piso,A reformar,72.3,4,3,7,1970.0,Sí,2025-01-23,171517.0
+Triana,Piso,Buen estado,78.4,2,2,4,1973.0,Sí,2024-02-11,169874.0
+Triana,Piso,Obra nueva,36.5,1,1,2,2025.0,Sí,2024-03-16,169613.0
+Triana,Piso,A reformar,89.4,4,2,2,,sí,2025-08-31,169108.0
+Triana,Piso,Reformado,38.0,2,1,3,1995.0,sí,2024-12-21,157415.0
+Triana,Piso,A reformar,73.9,3,3,5,,Sí,2024-08-10,157411.0
+Triana,Piso,A reformar,61.6,1,1,5,1968.0,Sí,2025-09-10,157110.0
+Triana,Piso,Obra nueva,38.3,2,1,6,2024.0,Sí,2024-09-04,156746.0
+Triana,Piso,Buen estado,56.1,1,1,5,2008.0,SÍ,2024-08-25,156504.0
+Triana,Piso,A reformar,73.7,2,2,1,1979.0,Sí,2025-09-25,155102.0
+Triana,Piso,Buen estado,63.7,3,2,3,1957.0,Sí,2025-07-23,146289.0
+Triana,Piso,Reformado,28.0,1,1,7,2009.0,Sí,2024-01-03,145254.0
+Triana,Piso,Buen estado,53.4,2,2,3,2022.0,Sí,2024-05-27,144267.0
+Triana,Piso,Reformado,49.3,1,1,3,1962.0,Sí,2024-01-30,142452.0
+Triana,Piso,Buen estado,59.5,3,3,6,2015.0,Sí,2025-11-27,142160.0
+Triana,Piso,Buen estado,57.4,2,2,2,1958.0,Sí,2025-08-22,140126.0
+Triana,Piso,Reformado,35.2,2,1,6,1986.0,Sí,2025-03-06,135830.0
+Triana,Piso,A reformar,53.5,3,2,4,,Sí,2025-03-09,126684.0
+Triana,Piso,A reformar,,5,2,2,1981.0,,2025-11-22,123627.0
+Triana,Piso,Buen estado,48.5,2,2,3,1983.0,No,2024-05-09,120004.0
+Triana,Piso,A reformar,62.5,1,1,4,1965.0,Sí,2024-07-10,118586.0
+Triana,Piso,Buen estado,32.9,1,1,3,1956.0,Sí,2025-12-21,115366.0
+Triana,Piso,Reformado,28.0,1,1,4,2015.0,No,2024-12-23,106342.0
+Triana,Piso,Buen estado,37.5,2,1,4,2002.0,Sí,2025-05-06,100523.0
+Triana,Piso,A reformar,,2,2,5,1955.0,,2024-06-27,99479.0
+Triana,Piso,A reformar,53.6,1,1,5,,Sí,2025-12-25,97504.0
+Triana,Piso,Reformado,28.0,2,1,3,1979.0,sí,2024-12-23,96354.0
+Triana,Piso,Buen estado,34.1,1,1,8,1964.0,sí,2025-01-31,93872.0
+Triana,Piso,A reformar,52.2,3,2,4,1960.0,sí,2024-04-17,93707.0
+Triana,Piso,Buen estado,33.7,2,1,4,1957.0,no,2024-08-24,92840.0
+Triana,Piso,Reformado,28.0,1,1,5,1960.0,,2024-10-13,78141.0
+Triana,Piso,Buen estado,28.0,1,1,8,1992.0,NO,2024-08-26,77082.0

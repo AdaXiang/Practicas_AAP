@@ -1,0 +1,62 @@
+barrio,tipo,estado,superficie_m2,habitaciones,banos,planta,ano_construccion,ascensor,fecha_venta,precio
+Nervión,Piso,A reformar,,1,1,7,1960.0,Sí,2025-08-02,153611.0
+San Pablo,Piso,Reformado,,3,3,8,2021.0,sí,2025-07-21,166847.0
+Bellavista,Piso,Reformado,,4,2,4,1990.0,sí,2024-05-31,183042.0
+San Pablo,Estudio,Reformado,,0,1,6,1960.0,Sí,2025-02-10,70720.0
+San Pablo,Estudio,Reformado,,0,1,6,1962.0,Sí,2025-05-31,125976.0
+Sur,Piso,A reformar,,4,3,7,,No,2025-04-13,63306.0
+Nervión,Piso,Reformado,,3,3,0,1961.0,No,2024-12-25,247225.0
+Triana,Piso,Buen estado,,3,2,0,2003.0,,2024-04-13,259859.0
+Nervión,Estudio,Reformado,,0,1,8,2002.0,Sí,2024-11-04,130280.0
+Macarena,Ático,Reformado,,3,3,6,2009.0,Sí,2025-12-26,124365.0
+Cerro-Amate,Chalet,Reformado,,5,2,0,1956.0,SÍ,2025-12-16,223376.0
+Triana,Estudio,Buen estado,,0,1,7,,Sí,2025-10-02,81445.0
+Este-Alcosa,Piso,Buen estado,,4,3,5,2010.0,sí,2025-06-18,153797.0
+Macarena,Estudio,Buen estado,,0,1,0,2005.0,No,2025-01-30,64023.0
+San Pablo,Ático,A reformar,,3,3,3,1959.0,Sí,2024-04-01,77709.0
+Cerro-Amate,Piso,A reformar,,4,2,5,1979.0,No,2024-03-10,72058.0
+Este-Alcosa,Estudio,Reformado,,0,1,0,1968.0,No,2025-12-14,68382.0
+Macarena,Piso,A reformar,,7,5,1,1973.0,No,2025-05-17,288343.0
+Bellavista,Piso,A reformar,,4,3,4,,,2025-09-26,95325.0
+Triana,Piso,A reformar,,2,2,5,1955.0,,2024-06-27,99479.0
+San Pablo,Piso,Buen estado,,4,2,8,2006.0,Sí,2025-01-18,256659.0
+Nervión,Chalet,Buen estado,,6,3,0,2005.0,sí,2025-08-06,612858.0
+Este-Alcosa,Piso,Reformado,,5,2,0,2020.0,no,2025-01-08,207682.0
+San Pablo,Piso,Buen estado,,3,3,6,1967.0,Sí,2025-08-28,107060.0
+Nervión,Piso,Obra nueva,,2,2,5,2022.0,Sí,2025-04-09,169447.0
+Macarena,Piso,A reformar,,3,2,7,1959.0,Sí,2025-06-04,86007.0
+Nervión,Piso,Buen estado,,4,2,2,1994.0,Sí,2025-09-18,367543.0
+Los Remedios,Ático,Buen estado,,3,3,1,2010.0,No,2024-11-04,377635.0
+Triana,Piso,A reformar,,5,2,2,1981.0,,2025-11-22,123627.0
+Bellavista,Ático,A reformar,,4,3,8,,SÍ,2024-10-17,100865.0
+Sur,Piso,A reformar,,2,1,3,1962.0,,2025-08-28,51858.0
+Este-Alcosa,Piso,Buen estado,,3,3,2,1962.0,Sí,2025-04-07,220710.0
+Nervión,Piso,Buen estado,,4,3,6,1980.0,sí,2025-01-14,184417.0
+Macarena,Piso,A reformar,,3,2,0,1963.0,no,2025-12-01,178400.0
+San Pablo,Piso,Buen estado,,5,2,7,1978.0,Sí,2024-01-19,199762.0
+Casco Antiguo,Piso,Buen estado,,2,2,6,1975.0,SÍ,2025-10-14,352812.0
+Cerro-Amate,Piso,A reformar,,4,2,2,,Sí,2025-11-01,100919.0
+Macarena,Piso,Obra nueva,,2,2,2,2020.0,Sí,2024-11-07,311345.0
+Triana,Piso,A reformar,,5,2,1,,,2024-07-29,242757.0
+Nervión,Ático,A reformar,,2,1,0,,No,2024-09-20,171405.0
+Este-Alcosa,Piso,Buen estado,,6,3,2,2022.0,Sí,2024-11-30,269720.0
+San Pablo,Piso,Buen estado,,1,1,5,1994.0,SÍ,2025-12-20,91466.0
+Casco Antiguo,Estudio,A reformar,,0,1,8,1963.0,Sí,2024-09-12,129899.0
+Este-Alcosa,Piso,Reformado,,3,3,6,1975.0,Sí,2025-02-03,148394.0
+Los Remedios,Piso,Reformado,,4,2,2,1993.0,Sí,2024-10-09,367212.0
+Triana,Chalet,Buen estado,,6,3,0,1962.0,no,2024-03-23,434546.0
+Este-Alcosa ,Piso,Buen estado,,3,3,1,1969.0,,2025-02-17,137658.0
+Macarena,Estudio,Reformado,,0,1,2,2011.0,No,2025-10-24,147045.0
+Macarena,Piso,Reformado,,4,2,3,1957.0,sí,2025-08-28,165761.0
+Macarena,Estudio,Buen estado,,0,1,0,2005.0,No,2025-01-30,64023.0
+Triana,Ático,Reformado,,5,3,7,1964.0,Sí,2024-05-03,324179.0
+San Pablo,Piso,Buen estado,,6,4,0,1966.0,NO,2025-01-27,192511.0
+Nervión,Piso,Obra nueva,,6,3,6,2022.0,sí,2025-10-20,671159.0
+Este-Alcosa,Chalet,Buen estado,,8,4,0,1964.0,No,2025-04-11,254173.0
+Nervión,Piso,Obra nueva,,1,1,4,2021.0,SÍ,2025-05-12,264812.0
+Nervión,Chalet,Reformado,,5,2,0,1989.0,NO,2025-04-28,359490.0
+Casco Antiguo,Piso,A reformar,,3,2,1,1970.0,No,2025-07-30,113605.0
+Triana,Estudio,Reformado,,0,1,4,1978.0,SÍ,2025-05-21,103772.0
+Casco Antiguo,Piso,Reformado,,4,3,5,1969.0,sí,2024-04-03,384378.0
+Triana,Estudio,Reformado,,0,1,1,1977.0,SÍ,2024-11-06,227732.0
+San Pablo,Ático,A reformar,,2,2,3,1963.0,Sí,2025-01-07,36670.0
