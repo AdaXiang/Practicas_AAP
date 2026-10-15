@@ -5,10 +5,12 @@ import sklearn
 import matplotlib.pyplot as plt
 import seaborn as sns
 import imblearn
+import unicodedata
 from sklearn.impute import SimpleImputer
 from sklearn.preprocessing import StandardScaler, MinMaxScaler
 from sklearn.impute import KNNImputer
 from sklearn.preprocessing import OneHotEncoder
+from sklearn.model_selection import train_test_split
 
 # Rutas de datos y caché
 RAW_CSV_PATH = "./datasets/viviendas_sevilla.csv"
@@ -189,43 +191,9 @@ def limpieza(df: pd.DataFrame, force_reload: bool = False) -> pd.DataFrame:
     #print("Ejecutando pipeline de limpieza de datos...")
     clean_df = df.copy()
 
-    # 1. Eliminar duplicados
+    # Eliminar duplicados
     clean_df = clean_df.drop_duplicates()
     
-    # 2. Imputar valores nulos (por ejemplo, con la mediana)
-    imputer = SimpleImputer(strategy="median")
-
-    # Si acensor es nulo, lo remplazamos por 0, ya que no tiene ascensor
-    clean_df['ascensor'] = clean_df['ascensor'].fillna("No")
-
-    # Si superficie es nulo, lo remplazamos por la mediana de superficie
-    clean_df['superficie_m2'] = imputer.fit_transform(clean_df[['superficie_m2']])
-
-    # Si el año de construcción es nulo, lo remplazamos utilizando el knn
-    cols_knn = [
-    'superficie_m2',
-    'habitaciones',
-    'banos',
-    'planta',
-    'ano_construccion',
-    'precio',
-]
-
-    # 1. Escalamos las variables al rango [0, 1] para equilibrar distancias
-    scaler = MinMaxScaler()
-    datos_escalados = scaler.fit_transform(clean_df[cols_knn])
-
-    # 2. Imputamos con KNN
-    knn_imputer = KNNImputer(n_neighbors=5)
-    datos_imputados_escalados = knn_imputer.fit_transform(datos_escalados)
-
-    # 3. Desescalamos a los valores reales originales
-    datos_finales = scaler.inverse_transform(datos_imputados_escalados)
-
-    # 4. Extraemos ano_construccion, redondeamos y convertimos a entero
-    idx_ano = cols_knn.index('ano_construccion')
-    clean_df['ano_construccion'] = np.round(datos_finales[:, idx_ano]).astype(int)
-
     # Modificar o eliminar ouliers
     # Eliminar superficie 9999 
     clean_df = clean_df[clean_df['superficie_m2'] != 9999]
@@ -243,63 +211,143 @@ def limpieza(df: pd.DataFrame, force_reload: bool = False) -> pd.DataFrame:
     return clean_df
 
 
+def transformacion( df_train: pd.DataFrame, df_test: pd.DataFrame) -> tuple[pd.DataFrame, pd.DataFrame]:
+    
+    df_train = df_train.copy()
+    df_test = df_test.copy()
+    
+    # 2. Imputar valores nulos
+    imputer = SimpleImputer(strategy="median")
+
+    # Si acensor es nulo, lo remplazamos por 0, ya que no tiene ascensor
+    df_train['ascensor'] = df_train['ascensor'].fillna("No")
+    df_test['ascensor'] = df_test['ascensor'].fillna("No")
+
+    # Si superficie es nulo, lo remplazamos por la mediana de superficie
+    df_train['superficie_m2'] = imputer.fit_transform(df_train[['superficie_m2']])
+    df_test['superficie_m2'] = imputer.transform(df_test[['superficie_m2']])
+
+    # Si el año de construcción es nulo, lo remplazamos utilizando el knn
+    cols_knn = ['superficie_m2','habitaciones','banos','planta','ano_construccion','precio',]
+
+    # 1. Escalamos las variables al rango [0, 1] para equilibrar distancias
+    scaler = MinMaxScaler()
+    datos_escalados = scaler.fit_transform(df_train[cols_knn])
+    datos_test_escalados = scaler.transform(df_test[cols_knn])
+
+    # 2. Imputamos con KNN
+    knn_imputer = KNNImputer(n_neighbors=5)
+    datos_train_imputados = knn_imputer.fit_transform(datos_escalados)
+    datos_test_imputados = knn_imputer.transform(datos_test_escalados)
+
+    # 3. Desescalamos a los valores reales originales
+    datos_train_finales = scaler.inverse_transform(datos_train_imputados)
+    datos_test_finales = scaler.inverse_transform(datos_test_imputados)
+
+    # 4. Extraemos ano_construccion, redondeamos y convertimos a entero
+    idx_ano = cols_knn.index('ano_construccion')
+    df_train['ano_construccion'] = np.round(datos_train_finales[:, idx_ano]).astype(int)
+    df_test['ano_construccion'] = np.round(datos_test_finales[:, idx_ano]).astype(int)
+
+    return df_train, df_test
+
+
 def feature_engineering(df: pd.DataFrame) -> pd.DataFrame:
     # precio_m2 = precio / superficie_m2
     df['precio_m2'] = df['precio'] / df['superficie_m2']
 
     # precio_habitacion = precio / habitaciones (evitar división por cero)
-    df['precio_habitacion'] = df.apply(lambda row: row['precio'] / row['habitaciones'] if row['habitaciones'] > 0 else np.nan, axis=1)
+    df['precio_habitacion'] = df.apply(lambda row: row['precio'] / row['habitaciones'] if row['habitaciones'] > 0 else row['precio'], axis=1)
 
-    # dividr la fehca en año, mes y día
-    df['fecha_venta'] = pd.to_datetime(df['fecha_venta'], format='%d/%m/%Y', errors='coerce')
-    df['año'] = df['fecha_venta'].dt.year
-    df['mes'] = df['fecha_venta'].dt.month
-    df['dia'] = df['fecha_venta'].dt.day
-    df['dia_semana'] = df['fecha_venta'].dt.dayofweek  # 0 = Lunes, 6 = Domingo
-    df['es_fin_de_semana'] = df['fecha_venta'].dt.dayofweek.isin([5, 6]).astype(int)
-    df['trimestre'] = df['fecha_venta'].dt.quarter
+    # dividr la fecha en año, mes y día
+    df['fecha_venta'] = pd.to_datetime(df['fecha_venta'], format='%Y-%m-%d', errors='coerce')
+    df['anio_venta'] = df['fecha_venta'].dt.year
+    df['mes_venta'] = df['fecha_venta'].dt.month
+    df['dia_venta'] = df['fecha_venta'].dt.day
+    df['dia_semana_venta'] = df['fecha_venta'].dt.dayofweek 
+    df['trimestre_venta'] = df['fecha_venta'].dt.quarter
+    
+    #Eliminamos campo
+    df = df.drop(columns=['fecha_venta'])
 
     return df
 
-def codificacion(df: pd.DataFrame) -> pd.DataFrame:
-    df = df.copy()
-    
-    # 1. Codificar variables nominales con OneHotEncoder
-    columnas_cat = ['barrio', 'tipo', 'estado']
-    encoder = OneHotEncoder(sparse_output=False, handle_unknown="ignore")
-    
-    encoded_matrix = encoder.fit_transform(df[columnas_cat])
-    encoded_cols = encoder.get_feature_names_out(columnas_cat)
-    encoded_df = pd.DataFrame(encoded_matrix, columns=encoded_cols, index=df.index)
-    
-    # Unir las nuevas columnas y eliminar las originales
-    df = pd.concat([df.drop(columns=columnas_cat), encoded_df], axis=1)
+def normalizar_nombre(col: str) -> str:
+    col = col.strip().lower()
 
-    # Codificar la variable 'ascensor' a 0 y 1
-    df['ascensor'] = (
-    df['ascensor']
-    .astype(str)
-    .str.strip()
-    .str.lower()
-    .str.replace('í', 'i')
-    .map({'no': 0, 'si': 1})
+    # Eliminar tildes
+    col = ''.join(
+        c for c in unicodedata.normalize('NFD', col)
+        if unicodedata.category(c) != 'Mn'
     )
 
-    return df
+    # Sustituir espacios y guiones por _
+    col = col.replace(' ', '_').replace('-', '_')
 
-def transformacion(df: pd.DataFrame) -> pd.DataFrame:
-    # Aplicar transformaciones logarítmicas a las variables numéricas
-    df['precio_log'] = np.log1p(df['precio'])
-    df['superficie_log'] = np.log1p(df['superficie_m2'])
+    # Eliminar guiones bajos repetidos
+    while '__' in col:
+        col = col.replace('__', '_')
 
-    return df
+    return col
 
-def estandarizacion(df: pd.DataFrame) -> pd.DataFrame:
+def codificacion( df_train: pd.DataFrame, df_test: pd.DataFrame) -> tuple[pd.DataFrame, pd.DataFrame]:
+    df_train = df_train.copy()
+    df_test = df_test.copy()
+
+    # 1. Seleccionar variables categóricas
+    columnas_cat = ['barrio', 'tipo', 'estado']
+
+    # 2. Limpiar los valores de ambos conjuntos
+    for df in (df_train, df_test):
+        df[columnas_cat] = df[columnas_cat].apply( lambda col: col.str.strip().str.lower())
+
+    # 3. Ajustar el encoder solo con entrenamiento
+    encoder = OneHotEncoder(handle_unknown="ignore")
+
+    matriz_train = encoder.fit_transform(df_train[columnas_cat])
+    matriz_test = encoder.transform(df_test[columnas_cat])
+
+    # 4. Obtener y normalizar los nombres de las columnas
+    encoded_cols = [
+        normalizar_nombre(col)
+        for col in encoder.get_feature_names_out(columnas_cat)
+    ]
+
+    # 5. Crear los DataFrames codificados
+    encoded_train = pd.DataFrame(matriz_train.toarray(),columns=encoded_cols,index=df_train.index)
+    encoded_test = pd.DataFrame(matriz_test.toarray(),columns=encoded_cols,index=df_test.index)
+
+    # 6. Sustituir las columnas categóricas originales
+    df_train = pd.concat([df_train.drop(columns=columnas_cat), encoded_train],axis=1)
+    df_test = pd.concat([df_test.drop(columns=columnas_cat), encoded_test],axis=1)
+
+    # 7. Codificar ascensor como 0 y 1
+    for df in (df_train, df_test):df['ascensor'] = (df['ascensor'].astype(str).str.strip().str.lower().str.replace('í', 'i').map({'no': 0, 'si': 1}))
+
+    return df_train, df_test
+
+
+def estandarizacion( df_train: pd.DataFrame, df_test: pd.DataFrame) -> tuple[pd.DataFrame, pd.DataFrame]:
+    df_train = df_train.copy()
+    df_test = df_test.copy()
+    
+    columnas = [
+        'superficie_m2',
+        'precio',
+        'precio_m2',
+        'precio_habitacion'
+    ]
+
     scaler = StandardScaler()
-    df[['superficie_log_std']] = scaler.fit_transform(df[['superficie_log']])
-    df[['precio_log_std']] = scaler.fit_transform(df[['precio_log']])
 
-    return df
+    df_train[[f'{col}_std' for col in columnas]] = (scaler.fit_transform(df_train[columnas]))
+    df_test[[f'{col}_std' for col in columnas]] = (scaler.transform(df_test[columnas]))
+    
+    #Eliminamos campo
+    df_train = df_train.drop(columns=columnas)
+    df_test = df_test.drop(columns=columnas)
+
+    return df_train, df_test
 
 def main():
     # 1. Obtención de datos con caché
@@ -312,21 +360,32 @@ def main():
 
     # 3. Limpieza y guardado en caché (pon force_reload=True si cambias las reglas de limpieza)
     df_clean = limpieza(df_raw, force_reload=False)
+    
+    df_train, df_test = train_test_split(
+        df_clean,
+        test_size=0.2,
+        random_state=42
+    )
+    
+    # 4. Tranformación del data set, CUIDADO CON DATA LEAKAGE
+    df_train, df_test = transformacion(df_train, df_test)
 
-    # 4. Feature Engineering
-    df_features = feature_engineering(df_clean)
+    # 5. Feature Engineering, NO hace fit
+    df_test = feature_engineering(df_test)
+    df_train = feature_engineering(df_train)
 
-    # 5. Codificación
-    df_encoded = codificacion(df_features)
-
-    # 6. Tranformación (logaritmo) de variables numéricas
-    df_encoded = transformacion(df_encoded)
+    # 6. Codificación
+    df_train, df_test = codificacion(df_train, df_test)
 
     # 7. Estandarización
-    df_final = estandarizacion(df_encoded)
+    df_train, df_test = estandarizacion(df_train, df_test)
+    
+    print("Primeras filas del train:")
+    print(df_train.head())
 
     # Guardar el dataset final en CSV
-    guardar_dataframe_csv(df_final, nombre_archivo="viviendas_sevilla_final.csv", carpeta_destino="viviendas_sevilla_csv")
+    guardar_dataframe_csv(df_test, nombre_archivo="viviendas_sevilla_test_final.csv", carpeta_destino="viviendas_sevilla_csv")
+    guardar_dataframe_csv(df_train, nombre_archivo="viviendas_sevilla_train_final.csv", carpeta_destino="viviendas_sevilla_csv")
 
 
 if __name__ == "__main__":
